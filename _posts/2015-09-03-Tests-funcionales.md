@@ -12,7 +12,8 @@ Básicamente se utilizan para determinar que el sofware está funcionando como s
 Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que todos vamos a poner nuestro granito de arena en probar las aplicaciones lo más profundamente posible.
 
 <figure>
-	<a href="https://farm9.staticflickr.com/8255/8610219527_b5eb22b7c7_k.jpg"><img src="https://farm9.staticflickr.com/8255/8610219527_b5eb22b7c7_k.jpg" alt=""></a>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg">
+	<img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg" alt=""></a>
 </figure>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/therealmrf/8610219527/" title="Arcoíris a ras de suelo"><img src="https://farm9.staticflickr.com/8255/8610219527_b5eb22b7c7_k.jpg" width="2048" height="1365" alt="Arcoíris a ras de suelo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
