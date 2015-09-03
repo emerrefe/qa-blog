@@ -1,4 +1,4 @@
-title:            HPSTR Theme
+title:            MC's QA Blog
 description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
 disqus_shortname: hpstrtheme
 reading_time:     true
@@ -12,16 +12,16 @@ owner:
   bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        mmistakes
+  twitter:        emerrefe
   facebook:       
-  github:         mmistakes
+  github:         emerrefe
   stackexchange:  
   linkedin:       
   instagram:        
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +MichaelRoseDesign
+  google_plus:    
 
 # Background image to be tiled on all pages
 background:
