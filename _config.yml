@@ -1,15 +1,15 @@
 title:            MC's QA Blog
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
+description:      Just another QA blog
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
-url:              //mmistakes.github.io/hpstr-jekyll-theme
+url:              //emerrefe.github.io/qa-blog/
 
 # Owner/author information
 owner:
-  name:           Michael Rose
-  avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
+  name:           MC Ramirez
+  avatar:         avatar.png
+  bio:            "QA tester"
   email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        emerrefe
@@ -27,13 +27,13 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-2011187-5
+google_analytics:   #UA-2011187-5
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Belfast
 future:      true
 highlighter: pygments
 markdown:    kramdown
