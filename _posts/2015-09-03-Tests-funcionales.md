@@ -11,11 +11,15 @@ Básicamente se utilizan para determinar que el sofware está funcionando como s
 
 Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que todos vamos a poner nuestro granito de arena en probar las aplicaciones lo más profundamente posible.
 
-<figure class="half">
-	<img src="/images/charla1.jpg" alt="">
-	<img src="/images/charla2.jpg" alt="">
-	<figcaption> _ </figcaption>
-</figure>
+{% highlight jinja %}
+{% raw %}
+{% capture images %}
+	/images/charla1.jpg
+	/images/charla2.jpg
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=3 %}
+{% endraw %}
+{% endhighlight %}
 
 Los desarrolladores, con nuestra mente de desarrolladores, tendemos a hacer pruebas unitarias, esto es, probar funcionamientos de tipo: Tengo esta entrada --> debo obtener esta salida.
 Pero un test funcional requiere algo más, comprobar una característica por completo, un camino funcional.
