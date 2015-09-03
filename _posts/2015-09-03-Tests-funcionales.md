@@ -13,8 +13,8 @@ Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que to
 
 
 <figure class="half">
-	<img src="/emerrefe/qa-blog/blob/gh-pages/images/charla1.jpg" alt="">
-	<img src="/emerrefe/qa-blog/blob/gh-pages/images/charla2.jpg" alt="">
+	<img src="/images/charla1.jpg?raw=true" alt="">
+	<img src="/images/charla2.jpg?raw=true" alt="">
 </figure>
 
 
