@@ -12,7 +12,7 @@ Básicamente se utilizan para determinar que el sofware está funcionando como s
 Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que todos vamos a poner nuestro granito de arena en probar las aplicaciones lo más profundamente posible.
 
 <figure>
-	<a href="https://farm9.staticflickr.com/8255/8610219527_551399dbc4_k.jpg"><img src="https://farm9.staticflickr.com/8255/8610219527_551399dbc4_k.jpg" alt=""></a>
+	<a href="https://flic.kr/p/e7RChP"><img src="https://flic.kr/p/e7RChP" alt=""></a>
 </figure>
 
 
