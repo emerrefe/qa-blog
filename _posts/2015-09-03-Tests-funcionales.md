@@ -13,10 +13,10 @@ Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que to
 
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
-	<img src="http://placehold.it/600x300.jpg" alt="">
-	<img src="http://placehold.it/600x300.jpg" alt="">
+	<a href=""><img src="/images/charla1.jpg" alt=""></a>
+	<a href=""><img src="/images/charla2.jpg" alt=""></a>
+	<img src="/images/charla1.jpg" alt="">
+	<img src="/images/charla2.jpg" alt="">
 	<figcaption>Two images.</figcaption>
 </figure>
 
