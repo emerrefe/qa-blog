@@ -12,10 +12,7 @@ Básicamente se utilizan para determinar que el sofware está funcionando como s
 Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que todos vamos a poner nuestro granito de arena en probar las aplicaciones lo más profundamente posible.
 
 
-<figure class="half">
-	<img src="/images/charla1.jpg?raw=true" alt="">
-	<img src="/images/charla2.jpg?raw=true" alt="">
-</figure>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/therealmrf/8610219527/in/album-72157635459306080/" title="Arcoíris a ras de suelo"><img src="https://farm9.staticflickr.com/8255/8610219527_551399dbc4_k.jpg" width="2048" height="1365" alt="Arcoíris a ras de suelo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 Los desarrolladores, con nuestra mente de desarrolladores, tendemos a hacer pruebas unitarias, esto es, probar funcionamientos de tipo: Tengo esta entrada --> debo obtener esta salida.
