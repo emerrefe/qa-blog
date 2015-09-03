@@ -13,7 +13,6 @@ Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que to
 
 <figure>
 	<a href="https://www.flickr.com/photos/therealmrf/8610219527/in/album-72157635459306080/"><img src="https://farm9.staticflickr.com/8255/8610219527_551399dbc4_k.jpg" alt=""></a>
-	<figcaption><a href="https://www.flickr.com/photos/therealmrf/8610219527/in/album-72157635459306080/" title="_">_</a>.</figcaption>
 </figure>
 
 
