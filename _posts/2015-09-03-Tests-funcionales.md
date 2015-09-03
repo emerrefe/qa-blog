@@ -11,9 +11,13 @@ Básicamente se utilizan para determinar que el sofware está funcionando como s
 
 Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que todos vamos a poner nuestro granito de arena en probar las aplicaciones lo más profundamente posible.
 
-<figure>
-	<a href=""><img src="https://github.com/emerrefe/qa-blog/blob/gh-pages/images/charla1.jpg" alt=""></a>
-	<figcaption><a href="" title="Talks"> _ </a>.</figcaption>
+
+<figure class="half">
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
+	<a href="http://placehold.it/1200x600.jpg"><img src="http://placehold.it/600x300.jpg" alt=""></a>
+	<img src="http://placehold.it/600x300.jpg" alt="">
+	<img src="http://placehold.it/600x300.jpg" alt="">
+	<figcaption>Two images.</figcaption>
 </figure>
 
 Los desarrolladores, con nuestra mente de desarrolladores, tendemos a hacer pruebas unitarias, esto es, probar funcionamientos de tipo: Tengo esta entrada --> debo obtener esta salida.
