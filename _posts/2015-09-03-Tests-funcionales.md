@@ -11,12 +11,9 @@ Básicamente se utilizan para determinar que el sofware está funcionando como s
 
 Hace unos meses intenté explicar esto a mis compañeros de equipo puesto que todos vamos a poner nuestro granito de arena en probar las aplicaciones lo más profundamente posible.
 
-<figure>
-	<a href="https://farm9.staticflickr.com/8255/8610219527_b5eb22b7c7_k.jpg">
-	<img src="https://farm9.staticflickr.com/8255/8610219527_b5eb22b7c7_k.jpg" alt=""></a>
-</figure>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/therealmrf/21108879965/in/album-72157657715561460/" title="charla1"><img src="https://farm1.staticflickr.com/731/21108879965_915b075900_b.jpg" width="950" height="635" alt="charla1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/therealmrf/8610219527/" title="Arcoíris a ras de suelo"><img src="https://farm9.staticflickr.com/8255/8610219527_b5eb22b7c7_k.jpg" width="2048" height="1365" alt="Arcoíris a ras de suelo"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/therealmrf/20487726973/in/album-72157657715561460/" title="charla2"><img src="https://farm6.staticflickr.com/5685/20487726973_e7c52a70fb_b.jpg" width="1024" height="416" alt="charla2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Los desarrolladores, con nuestra mente de desarrolladores, tendemos a hacer pruebas unitarias, esto es, probar funcionamientos de tipo: Tengo esta entrada --> debo obtener esta salida.
 Pero un test funcional requiere algo más, comprobar una característica por completo, un camino funcional.
