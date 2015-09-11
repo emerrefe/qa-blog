@@ -18,32 +18,32 @@ Como truco para no perder nada y tener en local todo actualizado justo antes de 
 * Me guardo mis cambios
  
 
-``` bash
+```
 $ git stash
 ```
 
 * Me descargo lo que hay arriba
 
-``` bash
+```
 $ git pull
 ```
 
 * Recupero mis cambios
 
-``` bash
+```
 $ git stash pop
 ```
 
 * Agrego mis cambios y describo mi commit
 
-``` bash
+```
 $ git add --all
 git commit -m "Mis cambios automágicos"
 ```
 
 * Subo mi commit
 
-``` bash
+```
 $ git push
 ```
 
