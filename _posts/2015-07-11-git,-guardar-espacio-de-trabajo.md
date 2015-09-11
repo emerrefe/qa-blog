@@ -16,33 +16,34 @@ Como truco para no perder nada y tener en local todo actualizado justo antes de 
 * El otro sube sus cambios sin problemas
 * LLego yo a subir lo mío y no estoy actualizada
 * Me guardo mis cambios
+ 
 
-```sh
+```bash
 $ git stash
 ```
 
 * Me descargo lo que hay arriba
 
-```sh
+```bash
 $ git pull
 ```
 
 * Recupero mis cambios
 
-```sh
+```bash
 $ git stash pop
 ```
 
 * Agrego mis cambios y describo mi commit
 
-```sh
+```bash
 $ git add --all
 git commit -m "Mis cambios automágicos"
 ```
 
 * Subo mi commit
 
-```sh
+```bash
 $ git push
 ```
 
