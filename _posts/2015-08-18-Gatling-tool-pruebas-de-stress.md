@@ -16,11 +16,11 @@ Además, al terminar te genera unos informes bastante majos con información sob
 * Descarga [Gatling](http://gatling.io/#/download.)
 * Usaremos por ejemplo el navegador Firefox. Cargar en una pestaña la web que queremos probar.
 
-```sh
+```
 $ cd gatling/bin
 ```
 
-```sh
+```
 $ ./recorder.sh
 ```
 
@@ -30,7 +30,7 @@ $ ./recorder.sh
 
 Ahora para lanzar la simulación habría que lanzar:
 
-```sh
+```
 $ ./gatling.sh 
 ```
 
