@@ -13,7 +13,7 @@ Es fácil simular un escenario previamente grabado, es decir, puedes abrir tu na
 Además, al terminar te genera unos informes bastante majos con información sobre cada sesión simulada, tiempos de respuesta y peticiones que han resultado ok o no_ok.
 
 ## Pasos:
-* Descarga [Gatling](http://gatling.io/#/download.)
+* Descarga [Gatling](http://gatling.io/#/download)
 * Usaremos por ejemplo el navegador Firefox. Cargar en una pestaña la web que queremos probar.
 
 ```
@@ -41,7 +41,7 @@ La clave para meter caña está en modificar el método setUp de la simulación 
 Tras lanzar la simulación, los informes resultantes se almacenan en la carpeta gatling/results/fecha-de-la-simulación/index.html
 
 
-Para quien tenga curiosidad, en su web explican cada una de las partes que componen un [escenario] (http://gatling.io/docs/2.1.7/quickstart.html#gatling-scenario-explained).
+Para quien tenga curiosidad, en su web explican cada una de las partes que componen un [escenario](http://gatling.io/docs/2.1.7/quickstart.html#gatling-scenario-explained)
 
 Todo esto se puede implementar diréctamente sin necesidad de grabar el camino y obtener la clase .scala con la simulación (y ahí es donde se tiene el poder de esta herramienta) pero quería escribir primero sobre el grabador que Gatling nos facilita para que lo conozcáis.
 
