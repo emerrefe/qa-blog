@@ -29,7 +29,6 @@ Procedemos:
 3. Crear una nueva clase .java con el siguiente contenido:
 
 ```
-
 import java.util.Arrays;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
