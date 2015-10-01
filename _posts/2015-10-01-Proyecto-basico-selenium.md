@@ -63,10 +63,8 @@ public class TestExample {
 }
 ```
 
+
 4. Ejecutar la clase.
-
-
-
 
 Se observa que se abre una ventana nueva de Chrome y comienza a hacer los pasos que le hemos indicado en el test.
 
