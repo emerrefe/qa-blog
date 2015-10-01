@@ -27,7 +27,7 @@ Procedemos:
 3. Crear una nueva clase .java con el siguiente contenido
 
 
-```
+~~~ java
 public class TestExample {
 	public static WebDriverWait wait;
 	public static WebDriver driver;
@@ -59,7 +59,7 @@ public class TestExample {
 		searchButton.click();
 	}
 }
-```
+~~~
 
 Tras ejecutar la clase, se observa que se abre una ventana nueva de Chrome y comienza a hacer los pasos que le hemos indicado en el test.
 
