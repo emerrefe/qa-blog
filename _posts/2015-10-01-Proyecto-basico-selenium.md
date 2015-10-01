@@ -7,7 +7,7 @@ eye_catch: ""
 ---
 
 Un ejemplo pequeño para empezar. Vamos a hacer una prueba sencilla.
-Cargamos la web de amazon, introducimos una palabra y hacemos click en *"Buscar"* (icono de la lupa).
+Cargamos la web de amazon, introducimos una palabra y hacemos click en **Buscar** (icono de la lupa).
 
 Herramientas que voy a utilizar:
 
@@ -23,8 +23,8 @@ Para empezar, debemos descargar:
 
 Procedemos:
 
-1. Crear un nuevo proyecto Java en Eclipse, por ejemplo *"FirstSelenimProject"*
-2. Incluir en el *src/* de ese proyecto tanto el chrome-driver como los .jar correspondientes a cliente y servidor de web-driver, es decir, el .jar de *selenium-server-standalone-java-X.jar* y  extraer el contenido de *selenium-java-X.zip*.
+1. Crear un nuevo proyecto Java en Eclipse, por ejemplo **FirstSelenimProject**
+2. Incluir en el **src/** de ese proyecto tanto el chrome-driver como los .jar correspondientes a cliente y servidor de web-driver, es decir, el .jar de **selenium-server-standalone-java-X.jar** y  extraer el contenido de **selenium-java-X.zip**.
 3. Crear una nueva clase .java con el siguiente contenido:
 
 {% highlight java %}
