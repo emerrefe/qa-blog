@@ -26,11 +26,9 @@ Procedemos:
 2. Incluir en el *src/* de ese proyecto tanto el chrome-driver como los .jar correspondientes a cliente y servidor de web-driver, es decir, el .jar de selenium-server-standalone-java-X.jar y  extraer el contenido de "selenium-java-X.zip".
 3. Crear una nueva clase .java con el siguiente contenido
 
-***
 
 ```
 public class TestExample {
-
 	public static WebDriverWait wait;
 	public static WebDriver driver;
 	
