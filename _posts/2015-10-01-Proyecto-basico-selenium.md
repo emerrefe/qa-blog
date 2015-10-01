@@ -16,6 +16,7 @@ Herramientas que voy a utilizar:
 - Chrome como navegador, por tanto, Chrome driver, con versión 2.19
 
 Para empezar, debemos descargar:
+
 1. Los .zip, tanto del cliente como del servidor del [WebDriver](http://www.seleniumhq.org/download/)
 2. El .zip del [web driver para Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
