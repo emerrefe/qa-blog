@@ -38,10 +38,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class TestExample {
-	public static WebDriverWait wait;
+	
 	public static WebDriver driver;
 	
 	@BeforeClass
@@ -49,7 +48,7 @@ public class TestExample {
 		System.setProperty("webdriver.chrome.driver", "src/chromedriver"); 
 		
 		ChromeOptions options = new ChromeOptions();
-	    options.setExperimentalOption("excludeSwitches", Arrays.asList("ignore-certificate-errors"));
+	    	options.setExperimentalOption("excludeSwitches", Arrays.asList("ignore-certificate-errors"));
 		driver = new ChromeDriver(options);            
 	}
 
