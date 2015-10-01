@@ -10,6 +10,7 @@ Un ejemplo pequeño para empezar. Vamos a hacer una prueba sencilla.
 Cargamos la web de amazon, introducimos una palabra y hacemos click en "Buscar" (icono de la lupa).
 
 Herramientas que voy a utilizar:
+
 - Eclipse, como entorno de desarrollo
 - Java 1.8
 - Selenium, con versiones 2.42
