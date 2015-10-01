@@ -30,7 +30,7 @@ Procedemos:
 
 ***
 
-```
+``` java 
 public class TestExample {
 
 	public static WebDriverWait wait;
@@ -66,9 +66,8 @@ public class TestExample {
 ```
 ***
 
-4. Ejecutar la clase.
 
-Se observa que se abre una ventana nueva de Chrome y comienza a hacer los pasos que le hemos indicado en el test.
+Tras ejecutar la clase, se observa que se abre una ventana nueva de Chrome y comienza a hacer los pasos que le hemos indicado en el test.
 
 Pues bien, con esto ya sabemos cómo lanzar pruebas contra nuestro navegador, ahora sólo queda indagar para saber cómo utilizar todos los métodos que interaccionan con los elementos de la página.
 
