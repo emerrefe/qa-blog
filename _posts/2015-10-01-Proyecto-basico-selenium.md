@@ -20,17 +20,15 @@ Para empezar, debemos descargar:
 1. Los .zip, tanto del cliente como del servidor del [WebDriver](http://www.seleniumhq.org/download/)
 2. El .zip del [web driver para Chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
-
-
 Procedemos:
 
 1. Crear un nuevo proyecto Java en Eclipse, por ejemplo "FirstSelenimProject"
 2. Incluir en el *src/* de ese proyecto tanto el chrome-driver como los .jar correspondientes a cliente y servidor de web-driver, es decir, el .jar de selenium-server-standalone-java-X.jar y  extraer el contenido de "selenium-java-X.zip".
-3. Crear una nueva clase .java con el siguiente contenido:
+3. Crear una nueva clase .java con el siguiente contenido
 
-***
 
 ``` java 
+
 public class TestExample {
 
 	public static WebDriverWait wait;
