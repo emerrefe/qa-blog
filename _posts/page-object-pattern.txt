@@ -1,0 +1,31 @@
+
+---
+layout: post
+title: Patrón PageObject (Selenium)
+tags: java selenium patterns
+eye_catch: ""
+---
+
+El patrón Page Object se ha puesto muy de moda en el mundo de las pruebas funcionales debido a que nos ayuda a 
+tener un código más limpio, una mejor estructura de proyecto y en definitiva un código más mantenible.
+
+Se basa sencillamente en separar toda la implementación de la aplicación de lo que es su funcionamiento. 
+De esta forma nos centramos en probar nuestra web página a página, como si un usuario navegara a través de ella
+y teniendo en cuenta que cada página para nosotros será un objeto. Así sólo nos quedará interactuar con cada uno 
+de ellos y devolver un objeto (página) inmediatamente posterior para poder encadenar caminos funcionales.
+
+Para tener una imagen clara de esto, imaginemos una aplicación con distintas pestañas como la siguiente.
+
+[INCLUIR IMAGEN]
+
+La idea entonces sería dividirla en páginas:
+1) Registro
+2) Login
+3) Gestión de usuarios
+4) Gestión de notas
+
+
+Y en cada página tendremos agrupado todo el comportamiento de la misma, es decir:
+* para 1 tendremos todos los métodos para probar que un registro se ha llevado a cabo (registro ok, registro no_ok y comprobaciones de iterfaz)
+* para 2 tendremos todos los métodos para probar que un login se ha llevado a cabo (login ok, login no_ok y comprobaciones de iterfaz)1
+[...]
