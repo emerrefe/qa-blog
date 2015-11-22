@@ -39,6 +39,7 @@ Tenemos que saber que el hecho de estar bien en la empresa también depende en g
 por **Marta Garrido Ledesma**
 
 Simplemente genial, me pareció súper especial, cercana, divertida... Dejó de lado hacer una presentación aburrida para hacernos ver una parte de su vida que podría habernos ocurrido a cualquiera. Nos mostró cómo fue su contratación y nada que ver con la mayoría de procesos de selección que conozco. Creo que es un lujo haber vivido eso para pasar a formar parte de su empresa y desearía que esta forma de "reclutar" gente se hiciera más y más común. Yo personalmente le doy mucha más importancia al bienestar en la empresa que a cualquier otra cosa, si estás a gusto no querrás marcharte y cada pequeño granito de arena que aportes a la empresa será con ganas y con ilusión (no una obligación porque al final te pagan).
+
 <blockquote class="twitter-tweet" lang="es"><p lang="es" dir="ltr">Vamos a aprender a contratar un tester con Marta Garrido <a href="https://twitter.com/hashtag/vlctesting15?src=hash">#vlctesting15</a> <a href="https://twitter.com/JokinAspiazu">@JokinAspiazu</a> <a href="https://t.co/FfVQvHCzB0">pic.twitter.com/FfVQvHCzB0</a></p>&mdash; Trobatest (@Trobatest) <a href="https://twitter.com/Trobatest/status/664452592504864768">noviembre 11, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 Fue una sutil y original forma de buscar más candidatos.
