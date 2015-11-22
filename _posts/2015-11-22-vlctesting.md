@@ -20,7 +20,7 @@ Son sólo de algunas de las charlas/seminarios (porque me parecieron importantes
 ##SSTQB Impulso del testing en España 
 por **Luisa Morales Gómez-Tejedor**
 
-El SSTQB es el Comité Español de Testing. Es el representante en España del ISTQB. La idea es certificar a los testers bajo unos mismos criterios que son internacionales. Algunas certificaciones ya están traducidas al español y puedes estudiarlas mediante cursos (o por cuenta propia) y tras ello examinarte. Estaría bien conseguir por lo menos la formación básica "Nivel Fundamentos" (se puede obtener más info en http://www.sstqb.es/certificaciones/nivel-fundamentos.html).
+El SSTQB es el Comité Español de Testing. Es el representante en España del ISTQB. La idea es certificar a los testers bajo unos mismos criterios que son internacionales. Algunas certificaciones ya están traducidas al español y puedes estudiarlas mediante cursos (o por cuenta propia) y tras ello examinarte. Estaría bien conseguir por lo menos la formación básica "Nivel Fundamentos" (se puede obtener más info en [aquí](http://www.sstqb.es/certificaciones/nivel-fundamentos.html)).
 Tener estas certificaciones, por ejemplo, te hacen tener un status bien reconocido como profesional del testing en otros países. 
 
 <center><blockquote class="twitter-tweet" lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/vlctesting15?src=hash">#vlctesting15</a> Luisa Morales: certificar personas significa homogeneizar conocimientos. <a href="https://t.co/hq9mMecbEG">pic.twitter.com/hq9mMecbEG</a></p>&mdash; Laura González (@bitxiua) <a href="https://twitter.com/bitxiua/status/664370123948564480">noviembre 11, 2015</a></blockquote></center>
