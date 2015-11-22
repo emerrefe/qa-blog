@@ -50,7 +50,7 @@ por **Antonio Robres Turón**
 Nos hizo ver que conocer las debilidades de tus lenguajes y herramientas es una ventaja, que nuestros tests deberían adaptarse (cada uno debe tener una responsabilidad separada o funcionalidad única) y que admás estén aislados, las bibliotecas deberían ser utilizadas con un único objetivo, que hay que tener cuidado con no duplicar código y que una buena práctica es monitorizar sistemas.
 Y todo con un gran toque de humor ^^
 
-<centro><blockquote class="twitter-tweet" lang="es"><p lang="es" dir="ltr">No, no es una charla de la ComicCon es el <a href="https://twitter.com/hashtag/vlctesting15?src=hash">#vlctesting15</a> y tú ¿con quien te identificas? <a href="https://t.co/RXVSr5jFCy">pic.twitter.com/RXVSr5jFCy</a></p>&mdash; Carlos Blanco (@qa_ops) <a href="https://twitter.com/qa_ops/status/664473577765412864">noviembre 11, 2015</a></blockquote></centro>
+<center><blockquote class="twitter-tweet" lang="es"><p lang="es" dir="ltr">No, no es una charla de la ComicCon es el <a href="https://twitter.com/hashtag/vlctesting15?src=hash">#vlctesting15</a> y tú ¿con quien te identificas? <a href="https://t.co/RXVSr5jFCy">pic.twitter.com/RXVSr5jFCy</a></p>&mdash; Carlos Blanco (@qa_ops) <a href="https://twitter.com/qa_ops/status/664473577765412864">noviembre 11, 2015</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Al final del todo se hizo una mesa redonda de preguntas donde varios compañeros intentaron contestar desde sus puntos de vista a diferentes cuestiones sobre calidad  de software y testing.
