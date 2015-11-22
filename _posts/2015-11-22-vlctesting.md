@@ -66,7 +66,8 @@ por  **José Maria Cubel** y **David García**
 Nos explicaron cómo utilizar esta herramienta. Hay que determinar ciertas reglas para aplicar sobre el código fuente y así
 poder obtener resultados de cómo está la calidad de nuestro código.
 En un nuevo post subiré información sobre la comunidad de SonarQube.
-
+<center><blockquote class="twitter-tweet" lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/fixtheleak?src=hash">#fixtheleak</a> <a href="https://twitter.com/excentia">@excentia</a> <a href="https://twitter.com/hashtag/vlctesting15?src=hash">#vlctesting15</a> análisis al vuelo mientras programas con tu ide favorito <a href="https://t.co/rthWhcDcjo">pic.twitter.com/rthWhcDcjo</a></p>&mdash; Ricardo García (@ricardogarfe) <a href="https://twitter.com/ricardogarfe/status/664827423805042688">noviembre 12, 2015</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Tras esta hora todavía quedaban más seminarios pero debía coger el vuelo de vuelta a Madrid así que hasta aquí puedo leer.
 
