@@ -2,10 +2,6 @@
 layout: post
 title: SonarQube, comunidad
 tags: sonarqube references
-image:
-  feature: sonar.png
-  credit: SonarQube
-  creditlink: http://www.sonarqube.org/wp-content/themes/sonarsource.org/images/sonar.png
 ---
 
 La calidad del código también es muy importante. 
