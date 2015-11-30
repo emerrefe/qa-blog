@@ -12,7 +12,7 @@ Este tema de la calidad del código es de momento un poco peliagudo ya que todav
 
 Entre los compañeros de trabajo hemos comentado que existe una comunidad (tanto inglesa como española) relacionada con este tema y que ayuda a difundir las buenas prácticas y dar algo de soporte a las dudas que surgen entorno a SonarQube y la calidad del código.
 
-(Aquí)[https://sonarqubehispano.org/display/HOME/Bienvenido] tenéis más info sobre la comunidad hispana. 
+[Aquí](https://sonarqubehispano.org/display/HOME/Bienvenido) tenéis más info sobre la comunidad hispana. 
 
 Si os gusta el tema podéis participar tanto con vuestras preguntas (si tenéis dudas) como con tutoriales (si sois expertos) ;)
 
