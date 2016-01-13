@@ -16,7 +16,7 @@ Para ello, utilizar capturas de pantalla y grabaciones de los pasos seguidos son
 
 * Para capturas de pantalla
 - Utilizo [Shutter](http://shutter-project.org/downloads/third-party-packages). Es genial porque la captura realizada se puede editar en el momento para marcar exactamente donde se encuentra el bug (con un cuadro, subrayado, flecha, texto...)
-Se instala con un simple 
+Se instala con un simple:
 
 ```
 $ apt-get install shutter
