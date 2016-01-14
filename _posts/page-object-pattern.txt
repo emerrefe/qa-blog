@@ -14,18 +14,27 @@ De esta forma nos centramos en probar nuestra web página a página, como si un 
 y teniendo en cuenta que cada página para nosotros será un objeto. Así sólo nos quedará interactuar con cada uno 
 de ellos y devolver un objeto (página) inmediatamente posterior para poder encadenar caminos funcionales.
 
-Para tener una imagen clara de esto, imaginemos una aplicación con distintas pestañas como la siguiente.
-
-[INCLUIR IMAGEN]
-
-La idea entonces sería dividirla en páginas:
-1) Registro
-2) Login
-3) Gestión de usuarios
-4) Gestión de notas
+Para tener una imagen clara de esto, imaginemos una aplicación con distintas páginas o elementos como la siguiente:
+1) Vista de la página de Registro
+2) Vista de la página de Login
+3) Página de Gestión de usuarios
+4) Página de Gestión de notas
+5) Logout (en la misma vista que las páginas de gestión)
 
 
 Y en cada página tendremos agrupado todo el comportamiento de la misma, es decir:
 * para 1 tendremos todos los métodos para probar que un registro se ha llevado a cabo (registro ok, registro no_ok y comprobaciones de iterfaz)
-* para 2 tendremos todos los métodos para probar que un login se ha llevado a cabo (login ok, login no_ok y comprobaciones de iterfaz)1
-[...]
+* para 2 tendremos todos los métodos para probar que un login se ha llevado a cabo (login ok, login no_ok y comprobaciones de iterfaz)
+* para 3 tendremos los que permiten gestionar usuarios (como agregar usuario, eliminar usuario, buscar usuario por nombre, buscar usuario por email y editar usuario).
+así sucesivamente...
+
+y sólo quedaría unir estos métodos entre ellos en caminos de forma fácil como:
+
+registro ok > login ok > agregar usuario > buscar usuario > cerrar sesión
+
+Así cada página permite que sus métodos enlacen con los métodos de otras páginas.
+
+Este patrón está muy relacionado con otro llamado PageFactory a nivel de código.
+En un nuevo post explicaré este otro ;)
+
+¡Saludos!
