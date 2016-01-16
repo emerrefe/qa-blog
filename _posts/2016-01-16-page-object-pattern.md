@@ -14,11 +14,12 @@ y teniendo en cuenta que cada página para nosotros será un objeto. Así sólo 
 de ellos y devolver un objeto (página) inmediatamente posterior para poder encadenar caminos funcionales.
 
 Para tener una imagen clara de esto, imaginemos una aplicación con distintas páginas o elementos como la siguiente:
-1) Vista de la página de Registro
-2) Vista de la página de Login
-3) Página de Gestión de usuarios
-4) Página de Gestión de notas
-5) Logout (en la misma vista que las páginas de gestión)
+
+1. Vista de la página de Registro
+2. Vista de la página de Login
+3. Página de Gestión de usuarios
+4. Página de Gestión de notas
+5. Logout (en la misma vista que las páginas de gestión)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135417629@N05/24080076590/in/dateposted-public/" title="pageobject"><img src="https://farm2.staticflickr.com/1639/24080076590_60ed5f1403_b.jpg" width="965" height="825" alt="pageobject"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
