@@ -28,6 +28,7 @@ Y en cada página tendremos agrupado todo el comportamiento de la misma, es deci
   * **para 1** tendremos todas las acciones que se pueden llevar a cabo en un registro (rellenar formunario ok, rellenar formulario de forma incorrecta, marcar check, aceptar)
   * **para 2** tendremos todas las acciones para realizar un login  (rellenar formulario ok, rellenar formulario de forma incorrecta, aceptar)
   * **para 3** idem (rellenar campos, buscar y añadir nuevo usuario)
+
 así sucesivamente...
 
   * para 1
