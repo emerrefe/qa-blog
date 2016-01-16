@@ -47,7 +47,7 @@ Teniendo esto, se pueden crear tests de cada página, por ejemplo:
 De este modo, cada página permite que sus métodos enlacen con los métodos de otras páginas.
 Y bien, sólo quedaría unir estos métodos entre ellos para formar caminos funcionales así:
 
-registro ok > login ok > buscar usuario > cerrar sesión
+**registro ok** > **login ok** > **buscar usuario** > **cerrar sesión**
 
 
 Este patrón está muy relacionado con otro llamado PageFactory a nivel de código.
