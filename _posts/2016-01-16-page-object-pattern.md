@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Patrón PageObject (Selenium)
-tags: java selenium patterns
+title: Patrón PageObject
+tags: test patterns
 eye_catch: ""
 ---
 
