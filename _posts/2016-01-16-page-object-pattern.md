@@ -31,6 +31,8 @@ Y en cada página tendremos agrupado todo el comportamiento de la misma, es deci
 
 así sucesivamente...
 
+Teniendo esto, se pueden crear tests de cada página, por ejemplo:
+
   * para 1
     - registro ok (que implica rellenar ok el formulario + marcar check + aceptar)
     - registro no_ok (por ejemplo rellenar ok + no marcar check + aceptar)
