@@ -8,33 +8,33 @@ eye_catch: ""
 El patrón PageFactory se utiliza, junto con el patron Page Object a la hora de implementar pruebas funcionales
 para hacer el código más mantenible y evitar escribir código como:
 
-```
+{% highlight java %}
 WebElement searchInput = driver.findElement(By.xpath("//*[@id='twotabsearchtextbox']"));
-```
+{% endhighlight %}
 
 De este modo, para hacer referencia a un elemento web, bastaría con importar:
 
-```java
+{% highlight java %}
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-```
+{% endhighlight %}
 
 Utilizar FindBy para tomar los elementos, así;
 
-```java
+{% highlight java %}
 @FindBy(xpath = "//*[@id='twotabsearchtextbox']")
 private WebElement searchInput;
-```
+{% endhighlight %}
 
 Inicializar esos elementos de la clase (u objeto de Page Object) con el PageFactory:
 (hay que pasar el driver y la propia clase)
 
-```java
+{% highlight java %}
 public Search(WebDriver d2){
 	driver = d2;  
 	PageFactory.initElements(driver, this);
 }
-```
+{% endhighlight %}
 
 Y realizar operaciones sobre estos elementos en el método pertinente de la siguiente forma:
 
