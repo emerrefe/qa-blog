@@ -38,12 +38,12 @@ public Search(WebDriver d2){
 
 Y realizar operaciones sobre estos elementos en el método pertinente de la siguiente forma:
 
-```java
+{% highlight java %}
 public void searchString(String product){
   driver.get("https://www.amazon.com");	
   searchInput.sendKeys(product); //p.e enviar un string a ese input
 }
-```
+{% endhighlight %}
 
 Para tenerlo bien claro dejo por aquí la estructura del proyecto y las clases necesarias.
 Por un lado estarán todas las clases u objetos (cada objeto del Page Object) y por otro las clases de los tests.
