@@ -40,8 +40,8 @@ Y realizar operaciones sobre estos elementos en el método pertinente de la sigu
 
 {% highlight java %}
 public void searchString(String product){
-  driver.get("https://www.amazon.com");	
-  searchInput.sendKeys(product); //p.e enviar un string a ese input
+	driver.get("https://www.amazon.com");	
+	searchInput.sendKeys(product); //p.e enviar un string a ese input
 }
 {% endhighlight %}
 
@@ -67,22 +67,22 @@ public class Search{
 	public static WebDriver driver;
 	
 	//webElements
-    @FindBy(xpath = "//*[@id='twotabsearchtextbox']")
-    private WebElement searchInput;
+	@FindBy(xpath = "//*[@id='twotabsearchtextbox']")
+	private WebElement searchInput;
+	
+	@FindBy(xpath = "//*[@id='nav-search']/form/div[2]/div/input")
+	private WebElement searchButton;
     
-    @FindBy(xpath = "//*[@id='nav-search']/form/div[2]/div/input")
-    private WebElement searchButton;
-    
-    public Search(WebDriver d2){
+    	public Search(WebDriver d2){
 		driver = d2;  
-    	PageFactory.initElements(driver, this);
-    }
+		PageFactory.initElements(driver, this);
+	}
     
-    public void searchString(String product){
-    	driver.get("https://www.amazon.com");	
-    	searchInput.sendKeys(product);
-		  searchButton.click();
-    }
+	public void searchString(String product){
+		driver.get("https://www.amazon.com");	
+		searchInput.sendKeys(product);
+		searchButton.click();
+	}
 }
 {% endhighlight %}
 
@@ -114,9 +114,9 @@ public class TestExample {
 	public static void setUp(){	
 		System.setProperty("webdriver.chrome.driver", "src/chromedriver"); 	
 		ChromeOptions options = new ChromeOptions();
-	  options.setExperimentalOption("excludeSwitches", Arrays.asList("ignore-certificate-errors"));
-	  driver 		  = new ChromeDriver(options);  
-		searchPage	= new Search(driver); //inicializamos nuestro page object "buscador"
+		options.setExperimentalOption("excludeSwitches", Arrays.asList("ignore-certificate-errors"));
+		driver = new ChromeDriver(options);  
+		searchPage = new Search(driver); //inicializamos nuestro page object "buscador"
 	}
 		
 	@AfterClass
