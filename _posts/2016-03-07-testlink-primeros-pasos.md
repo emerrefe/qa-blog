@@ -23,13 +23,13 @@ alt="Usuarios"></a><script async src="//embedr.flickr.com/assets/client-code.js"
 
 En testlink nos construiremos nuestra batería de pruebas de esta forma:
 
-TestSuite: la colección de tests cases de nuestro proyecto, le pondremos el nombre del mismo.
-TestCases: cada una de las pruebas software que haremos, con todas las condiciones que deben cumplir
+**TestSuite:** la colección de tests cases de nuestro proyecto, le pondremos el nombre del mismo.
+**TestCases:** cada una de las pruebas software que haremos, con todas las condiciones que deben cumplir
 para ver si hacen lo que deben (lo establecido), agrupandolas debidamente.
 
 
-La idea es tener cada grupo de tests acorde con algún patrón como el Page Object, así para esta web tendríamos tres grandes
-grupos:
+La idea es tener cada grupo de tests acorde con algún patrón como el Page Object, así para esta web tendríamos tres grandes grupos:
+
 1.  Gestión de usuarios
 2.  Gestión de canciones
 3.  Gestión de listas de reproducción
