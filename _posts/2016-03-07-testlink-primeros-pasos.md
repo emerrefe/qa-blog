@@ -81,8 +81,8 @@ Para reforzar aún más la organización de estos test cases, cada test suite pu
 
 ¡Esto es todo por hoy!
 
-
 Por cierto la imagen del mapa mental del principio no está hecha a mano (aunque lo parezca ^^ )
+
 He utilizado [Balsamiq Mockups](https://balsamiq.com/products/mockups), una interfaz sencilla para plasmar ideas. Me encanta desde que lo descubrí haciendo mi proyecto fin de carrera.
 
 ¡A cuidarse!
