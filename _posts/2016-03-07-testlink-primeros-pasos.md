@@ -24,6 +24,7 @@ alt="Usuarios"></a><script async src="//embedr.flickr.com/assets/client-code.js"
 En testlink nos construiremos nuestra batería de pruebas de esta forma:
 
 **TestSuite:** la colección de tests cases de nuestro proyecto, le pondremos el nombre del mismo.
+
 **TestCases:** cada una de las pruebas software que haremos, con todas las condiciones que deben cumplir
 para ver si hacen lo que deben (lo establecido), agrupandolas debidamente.
 
@@ -63,7 +64,7 @@ A grandes rasgos explico rápido cómo:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135417629@N05/23744012553/in/dateposted-public/" title="testlink nuevo proyecto 3"><img src="https://farm2.staticflickr.com/1455/23744012553_0906b6af26_m.jpg" width="1600" alt="testlink nuevo proyecto 3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-- Añadir test suites (como en el caso de "Mi web", "Listado de usuarios", "Gestión de canciones", "Gestión de listas de reproducción" y las carpetas de "Caminos éxito/fallo" ).
+- Añadir test suites (como en el caso de "Mi web", "Listado de usuarios", "Gestión de canciones", "Gestión de listas de reproducción" y las carpetas de "Caminos éxito/fallo").
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135417629@N05/24262607252/in/dateposted-public/" title="test suite"><img src="https://farm2.staticflickr.com/1567/24262607252_80d683e7ae_m.jpg" width="3200" alt="test suite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
