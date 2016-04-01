@@ -1,0 +1,10 @@
+---
+layout: post
+title: Proyecto para testing funcional, con maven
+tags: maven functional example java intellij
+eye_catch: ""
+---
+
+Escribo este post para tener siempre a mano un proyecto mínimo que sirva para empezar con las pruebas funcionales.
+
+Ya hice un post con un ejemplo básico y sencillo pero con este, la idea es tener un proyecto que además esté *mavenizado* y que utilice *testNG*.
