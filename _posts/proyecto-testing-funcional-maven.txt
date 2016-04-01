@@ -7,4 +7,23 @@ eye_catch: ""
 
 Escribo este post para tener siempre a mano un proyecto mínimo que sirva para empezar con las pruebas funcionales.
 
-Ya hice un post con un ejemplo básico y sencillo pero con este, la idea es tener un proyecto que además esté *mavenizado* y que utilice *testNG*.
+Ya hice un post con un ejemplo básico y sencillo pero con este, la idea es tener un proyecto que además 
+esté *mavenizado* y que utilice *testNG*.
+
+El proyecto estará mavenizado porque así tendremos una estructura de directorios organizada y nos va a permitir 
+realizar tareas de una forma muy fácil como por ejemplo tener localizadas las dependencias que queramos 
+(por ejemplo utilizaremos las de selenium), descargar plugins necesarios etc
+
+Por otro lado, haremos que descargue y utilice testNG puesto que es un framework que nos va a ayudar a organizar 
+y gestionar nuestros tests en este proyecto java (lanzar sólo los tests que consideramos críticos, 
+sólo los que tienen que ver con una necesidad, relanzar automáticamente los que han fallado...)
+
+Todos los elementos que voy a utilizar: Java8, IntelliJ, Selenium y TestNG.
+
+¡Empezamos!
+
+Creamos entonces un proyecto java básico y lo hacemos con *maven-quickstart* que es un arquetipo o plantilla 
+que sirve como base (generamos así la estructura de directorios del proyecto). Para ello:
+
+
+
