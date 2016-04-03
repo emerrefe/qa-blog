@@ -22,7 +22,7 @@ Todos los elementos que voy a utilizar: Java8, IntelliJ, Selenium y TestNG.
 
 ¡Empezamos!
 
-Creamos entonces un proyecto java básico y lo hacemos con *maven-quickstart* que es un arquetipo o plantilla 
+Creamos entonces un proyecto java básico y lo hacemos con `maven-quickstart`que es un arquetipo o plantilla 
 que sirve como base (generamos así la estructura de directorios del proyecto). Para ello:
 
 1. Primero, desde la linea de comandos hacemos:
@@ -55,9 +55,7 @@ File > Project Structure > Project > Project SDK
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135417629@N05/26113643532/in/dateposted-public/" title="sdk java8"><img src="https://farm2.staticflickr.com/1617/26113643532_7ff22e6c3b.jpg" width="500" height="182" alt="sdk java8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-4.  Ahora vamos a modificar ese pom, añadiendo varias dependencias:
-
-      a.  Las dos de selenium
+4.  Ahora vamos a modificar ese `pom.xml`, añadiendo varias dependencias, las dos de selenium y la de testNG:
       
 {% highlight java %}
 <dependency>
@@ -72,9 +70,6 @@ File > Project Structure > Project > Project SDK
 </dependency>
 {% endhighlight %}
 
-
-      b.  Y la de testNG
-      
 {% highlight java %}
 <dependency>
       <groupId>org.testng</groupId>
@@ -134,8 +129,11 @@ Y las url necesarias para descargar [chromedriver](https://sites.google.com/a/ch
 y [SDK Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 
-*PD.* Podemos ir más allá y tener siempre la última versión de chrome driver descargada utilizando plugins para maven como 
+### PD. 
+Podemos ir más allá y tener siempre la última versión de chrome driver descargada utilizando plugins para maven como 
 [este](https://github.com/webdriverextensions/webdriverextensions-maven-plugin)
+
 De igual manera, sería modificar el `pom.xml` para que construya el proyecto como nosotros queramos antes de ponernos a lanzar pruebas. Interesante :)
 
-*Nota.* Si podemos ir actualizando el `pom.xml`, mejor. Hay que revisar a menudo si hay versiones nuevas de Selenium y TestNG para ver si, al acogernos a una versión más nueva, todas las pruebas nos siguen funcionando. Además si han introducido mejoras o funcionalidades nuevas, probar a utilizarlas.
+### Nota.
+Si podemos ir actualizando el `pom.xml`, mejor. Hay que revisar a menudo si hay versiones nuevas de Selenium y TestNG para ver si, al acogernos a una versión más nueva, todas las pruebas nos siguen funcionando. Además si han introducido mejoras o funcionalidades nuevas, probar a utilizarlas.
