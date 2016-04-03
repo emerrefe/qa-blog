@@ -58,6 +58,7 @@ File > Project Structure > Project > Project SDK
 4.  Ahora vamos a modificar ese pom, añadiendo varias dependencias:
 
       a.  Las dos de selenium
+      
 {% highlight java %}
 <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
@@ -73,6 +74,7 @@ File > Project Structure > Project > Project SDK
 
 
       b.  Y la de testNG
+      
 {% highlight java %}
 <dependency>
       <groupId>org.testng</groupId>
@@ -126,7 +128,7 @@ La estructura final sería:
 Y listo, sobre el test `testMethod` de la clase `TestExample`, click and run!! 
 Ya podemos lanzar las pruebas.
 
-*RESUMEN* (Para la vagancia)
+# RESUMEN (Para la vagancia)
 El [proyecto completo](https://github.com/emerrefe/basic-testing-project/archive/master.zip)
 Y las url necesarias para descargar [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
 y [SDK Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -134,10 +136,6 @@ y [SDK Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downl
 
 *PD.* Podemos ir más allá y tener siempre la última versión de chrome driver descargada utilizando plugins para maven como 
 [este](https://github.com/webdriverextensions/webdriverextensions-maven-plugin)
-De igual manera, sería modificar el _pom_ para que construya el proyecto como nosotros queramos antes de ponernos a lanzar pruebas. Interesante :)
+De igual manera, sería modificar el `pom.xml` para que construya el proyecto como nosotros queramos antes de ponernos a lanzar pruebas. Interesante :)
 
-*Nota.* Si podemos ir actualizando el _pom.xml_, mejor. Hay que revisar a menudo si hay versiones nuevas de Selenium y TestNG para ver si, al acogernos a una versión más nueva, todas las pruebas nos siguen funcionando. Además si han introducido mejoras o funcionalidades nuevas, probar a utilizarlas.
-
-
-
-[he leído](http://theuserisdrunk.com/)
+*Nota.* Si podemos ir actualizando el `pom.xml`, mejor. Hay que revisar a menudo si hay versiones nuevas de Selenium y TestNG para ver si, al acogernos a una versión más nueva, todas las pruebas nos siguen funcionando. Además si han introducido mejoras o funcionalidades nuevas, probar a utilizarlas.
