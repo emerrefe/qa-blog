@@ -121,15 +121,16 @@ La estructura final sería:
 Y listo, sobre el test `testMethod` de la clase `TestExample`, click and run!! 
 Ya podemos lanzar las pruebas.
 
-## RESUMEN (Para la vagancia)
-El [proyecto completo](https://github.com/emerrefe/basic-testing-project/archive/master.zip)
-Y las url necesarias para descargar [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
-y [SDK Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-
-
 **PD.** Podemos ir más allá y tener siempre la última versión de chrome driver descargada utilizando plugins para maven como 
 [este](https://github.com/webdriverextensions/webdriverextensions-maven-plugin)
 
 De igual manera, sería modificar el `pom.xml` para que construya el proyecto como nosotros queramos antes de ponernos a lanzar pruebas. Interesante :)
 
 **Nota.** Si podemos ir actualizando el `pom.xml`, mejor. Hay que revisar a menudo si hay versiones nuevas de Selenium y TestNG para ver si, al acogernos a una versión más nueva, todas las pruebas nos siguen funcionando. Además si han introducido mejoras o funcionalidades nuevas, probar a utilizarlas.
+
+## RESUMEN (Para la vagancia)
+El [proyecto completo](https://github.com/emerrefe/basic-testing-project/archive/master.zip)
+Y las url necesarias para descargar [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
+y [SDK Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
+¡Saludos!
