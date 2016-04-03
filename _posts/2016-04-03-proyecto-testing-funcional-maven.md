@@ -25,7 +25,7 @@ Todos los elementos que voy a utilizar: Java8, IntelliJ, Selenium y TestNG.
 Creamos entonces un proyecto java básico y lo hacemos con `maven-quickstart`que es un arquetipo o plantilla 
 que sirve como base (generamos así la estructura de directorios del proyecto). Para ello:
 
-* **1.**  Primero, desde la linea de comandos hacemos:
+* **(1)**  Primero, desde la linea de comandos hacemos:
 
 ```
 $ mvn archetype:generate -DgroupId=com.examples -DartifactId=basic-testing-project -DarchetypeArtifactId=maven-archetype-quickstart
@@ -40,12 +40,12 @@ Esto nos genera una estructura como la siguiente:
 
 Como se puede ver, ya tenemos creado el _pom.xml_, que es el fichero XML que contiene toda la info necesaria para construir el proyecto.
 
-* **2.** Importamos el proyecto en IntelliJ:
+* **(2)** Importamos el proyecto en IntelliJ:
 
 ```
 File > Open
 ```
-* **3.** Si no tenemos Java8, ya va siendo hora de [descargarlo](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html):
+* **(3)** Si no tenemos Java8, ya va siendo hora de [descargarlo](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html):
 
 ```
 File > Project Structure > Project > Project SDK
@@ -53,7 +53,7 @@ File > Project Structure > Project > Project SDK
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135417629@N05/26113643532/in/dateposted-public/" title="sdk java8"><img src="https://farm2.staticflickr.com/1617/26113643532_7ff22e6c3b.jpg" width="500" height="182" alt="sdk java8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-* **4.** Ahora vamos a modificar ese `pom.xml`, añadiendo varias dependencias, las dos de selenium y la de testNG:
+* **(4)** Ahora vamos a modificar ese `pom.xml`, añadiendo varias dependencias, las dos de selenium y la de testNG:
       
 {% highlight java %}
 <dependency>
@@ -110,9 +110,9 @@ quedando así:
 </project>
 {% endhighlight %}
 
-* **5.** Además, descargo [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) y lo incluyo en la carpeta *src* del proyecto.
+* **(5)** Además, descargo [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) y lo incluyo en la carpeta *src* del proyecto.
 
-* **6.** Y sólo nos queda ajustar la clase principal y la clase de test. Yo voy a implantar el *page-factory* que os comentaba en [este post](http://emerrefe.github.io/qa-blog/pagefactory-pattern)
+* **(6)** Y sólo nos queda ajustar la clase principal y la clase de test. Yo voy a implantar el *page-factory* que os comentaba en [este post](http://emerrefe.github.io/qa-blog/pagefactory-pattern)
 
 La estructura final sería:
 
