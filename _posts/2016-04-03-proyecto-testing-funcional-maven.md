@@ -47,7 +47,6 @@ Como se puede ver, ya tenemos creado el _pom.xml_, que es el fichero XML que con
 File > Open
 ```
 
-
 3.  Si no tenemos Java8, ya va siendo hora de [descargarlo](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html):
 
 ```
@@ -71,6 +70,7 @@ File > Project Structure > Project > Project SDK
       <version>2.52.0</version>
 </dependency>
 {% endhighlight %}
+
 
       b.  Y la de testNG
 {% highlight java %}
