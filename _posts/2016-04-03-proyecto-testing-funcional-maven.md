@@ -128,7 +128,7 @@ La estructura final sería:
 Y listo, sobre el test `testMethod` de la clase `TestExample`, click and run!! 
 Ya podemos lanzar las pruebas.
 
-# RESUMEN (Para la vagancia)
+## RESUMEN (Para la vagancia)
 El [proyecto completo](https://github.com/emerrefe/basic-testing-project/archive/master.zip)
 Y las url necesarias para descargar [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
 y [SDK Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
