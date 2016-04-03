@@ -11,8 +11,8 @@ Ya hice un post con un ejemplo básico y sencillo pero con este, la idea es tene
 esté *mavenizado* y que utilice *testNG*.
 
 El proyecto estará mavenizado porque así tendremos una estructura de directorios organizada y nos va a permitir 
-realizar tareas de una forma muy fácil como por ejemplo tener localizadas las dependencias que queramos 
-(por ejemplo utilizaremos las de selenium), descargar plugins necesarios etc
+realizar tareas de una forma muy fácil como tener localizadas las dependencias que queramos 
+(por ejemplo utilizaremos las de selenium), descargar plugins necesarios, etc
 
 Por otro lado, haremos que descargue y utilice testNG puesto que es un framework que nos va a ayudar a organizar 
 y gestionar nuestros tests en este proyecto java (lanzar sólo los tests que consideramos críticos, 
@@ -58,8 +58,7 @@ File > Project Structure > Project > Project SDK
 
 4.  Ahora vamos a modificar ese pom, añadiendo varias dependencias:
 
-a.  Las dos de selenium
-
+      a.  Las dos de selenium
 {% highlight java %}
 <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
@@ -73,7 +72,7 @@ a.  Las dos de selenium
 </dependency>
 {% endhighlight %}
 
-b.  Y la de testNG
+      b.  Y la de testNG
 {% highlight java %}
 <dependency>
       <groupId>org.testng</groupId>
@@ -124,11 +123,10 @@ La estructura final sería:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/135417629@N05/26206267085/in/dateposted-public/" title="estructura final mvn"><img src="https://farm2.staticflickr.com/1582/26206267085_cbae923931_b.jpg" width="1024" height="559" alt="estructura final mvn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Y listo, sobre el test *testMethod* de la clase *TestExample*, click and run!! 
+Y listo, sobre el test `testMethod` de la clase `TestExample`, click and run!! 
 Ya podemos lanzar las pruebas.
 
-
-##RESUMEN (Para la vagancia)
+*RESUMEN* (Para la vagancia)
 El [proyecto completo](https://github.com/emerrefe/basic-testing-project/archive/master.zip)
 Y las url necesarias para descargar [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) 
 y [SDK Java8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
