@@ -17,8 +17,13 @@ Ahí van:
 
 ## DÍA 1: Buy one testing book and read it by day 30
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">My book for the first challenge <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> Thanks to <a href="https://twitter.com/JokinAspiazu">@JokinAspiazu</a> for the recommendation!! <a href="https://twitter.com/ministryoftest">@ministryoftest</a> <a href="https://t.co/UE14ZPHxST">pic.twitter.com/UE14ZPHxST</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/748933532639170560">1 de julio de 2016</a></blockquote>
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">My book for the first challenge <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> Thanks to <a href="https://twitter.com/JokinAspiazu">@JokinAspiazu</a> for the recommendation!! <a href="https://twitter.com/ministryoftest">@ministryoftest</a> <a href="https://t.co/UE14ZPHxST">pic.twitter.com/UE14ZPHxST</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/748933532639170560">1 de julio de 2016</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 He de confesar que todavía no lo he leído por completo. De todas formas, es un libro que incluso puedes leer sin seguir un orden y por eso se lee muy fácilmente. Cualquier lección que leas es cortita y te aporta mucho en poco tiempo.
 Entre otras muchas ideas, te hace ver qué otras ciencias te pueden aportar valor como tester. Está genial.
+
+## DÍA 2: Take a photo of something you are doing at work
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">2nd: Not only books, videos teach you in a very good and cool way <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a><a href="https://twitter.com/hashtag/coolcareers?src=hash">#coolcareers</a> <a href="https://t.co/oQaYS0IOos">pic.twitter.com/oQaYS0IOos</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/750034943796019200">4 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
