@@ -27,3 +27,31 @@ Entre otras muchas ideas, te hace ver qué otras ciencias te pueden aportar valo
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">2nd: Not only books, videos teach you in a very good and cool way <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a><a href="https://twitter.com/hashtag/coolcareers?src=hash">#coolcareers</a> <a href="https://t.co/oQaYS0IOos">pic.twitter.com/oQaYS0IOos</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/750034943796019200">4 de julio de 2016</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## DÍA 3: Listening to a testing podcast
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">3rd: <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> I&#39;ve just found this podcast. Remember, we are all in the same boat. <a href="https://t.co/9tuLiWW6QC">https://t.co/9tuLiWW6QC</a> nice ^^</p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/750040799971274753">4 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## DÍA 4: Share a testing blog post with a non-tester
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/noelya86">@noelya86</a> nah seriously, it&#39;s an interesting post!! <a href="https://t.co/IsTVpkCJ70">https://t.co/IsTVpkCJ70</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/750396887354736640">5 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## DÍA 5: Read and comment on one blog post
+
+Fui yo quien recibió un comentario de Giulliana, quien aportó más información sobre Testlink en el post que escribí sobre los primeros pasos con esta herramienta.
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Day5?src=hash">#Day5</a> Hoy en el blog de <a href="https://twitter.com/emerrefe">@emerrefe</a> compartiendo algunas ideas sobre la herramienta TestLink <a href="https://twitter.com/hashtag/30DaysOfTesting?src=hash">#30DaysOfTesting</a> <a href="https://t.co/iHVyNEdT7c">pic.twitter.com/iHVyNEdT7c</a></p>&mdash; Giulliana (@giulliana_psv) <a href="https://twitter.com/giulliana_psv/status/750428854951505920">5 de julio de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## DÍA 6: Perform a crazy test
+
+Para crazy testing el que hemos hecho de PokemonGo, donde no se muestran los mapas, la pokédex está desmaquetada, el login se peta y los km se cuentan como les place...
+
+## DÍA 7: Find an accessibility bug
+
+Sé que no es un bug de una aplicación, tipo "este sitio no es adecuado para que un daltónico lo utilice" pero no me digáis que esto que me encontré camino Galicia no es un buen bug de accesibilidad.
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Day7: I think this is the best accessibility bug I have found until now 😂 <a href="https://twitter.com/hashtag/roadtogalicia?src=hash">#roadtogalicia</a> <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> <a href="https://t.co/T4IRmIx1AW">pic.twitter.com/T4IRmIx1AW</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/751363740751331328">8 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
