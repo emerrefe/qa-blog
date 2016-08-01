@@ -42,7 +42,7 @@ Entre otras muchas ideas, te hace ver qué otras ciencias te pueden aportar valo
 
 Fui yo quien recibió un comentario de Giulliana, quien aportó más información sobre Testlink en el post que escribí sobre los primeros pasos con esta herramienta.
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Day5?src=hash">#Day5</a> Hoy en el blog de <a href="https://twitter.com/emerrefe">@emerrefe</a> compartiendo algunas ideas sobre la herramienta TestLink <a href="https://twitter.com/hashtag/30DaysOfTesting?src=hash">#30DaysOfTesting</a> <a href="https://t.co/iHVyNEdT7c">pic.twitter.com/iHVyNEdT7c</a></p>&mdash; Giulliana (@giulliana_psv) <a href="https://twitter.com/giulliana_psv/status/750428854951505920">5 de julio de 2016</a></blockquote>
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/Day5?src=hash">#Day5</a> Hoy en el blog de <a href="https://twitter.com/emerrefe">@emerrefe</a> compartiendo algunas ideas sobre la herramienta TestLink <a href="https://twitter.com/hashtag/30DaysOfTesting?src=hash">#30DaysOfTesting</a> <a href="https://t.co/iHVyNEdT7c">pic.twitter.com/iHVyNEdT7c</a></p>&mdash; Giulliana (@giulliana_psv) <a href="https://twitter.com/giulliana_psv/status/750428854951505920">5 de julio de 2016</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## DÍA 6: Perform a crazy test
@@ -55,3 +55,69 @@ Sé que no es un bug de una aplicación, tipo "este sitio no es adecuado para qu
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Day7: I think this is the best accessibility bug I have found until now 😂 <a href="https://twitter.com/hashtag/roadtogalicia?src=hash">#roadtogalicia</a> <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> <a href="https://t.co/T4IRmIx1AW">pic.twitter.com/T4IRmIx1AW</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/751363740751331328">8 de julio de 2016</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## DÍA 8: Download a mobile app, Find 5 bugs and send the feedback to the creator
+
+Recuerdo haber utilizado la aplicación de la Bruja de oro, para poder mira si mis décimos de navidad estaban premiados (nunca hay que perder la ilusión jeje)
+
+Pues bien, al utilizarla vi algún problema, no son 5 bugs, pero me impactó que tras comentarle al creador el bug que había encontrado, me contestara y además muy agradecido por el feedback. ¡Así es genial!
+
+Qué lujo saber que hay gente así, os dejaré el hilo del email para que le echéis un ojo.
+
+## DÍA 13: Find a user experience problem
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Day13: As a user, I think this is an experience problem <a href="https://twitter.com/hashtag/pokemonNO?src=hash">#pokemonNO</a>-GO 😂 <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> <a href="https://t.co/wWgCSt7K1z">pic.twitter.com/wWgCSt7K1z</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/754784714473533440">17 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## DÍA 14: Step outside of your confort zone
+
+Hemos movido nuestro puesto de trabajo durante dos horas junto con los compañeros de otro departamento para ver cómo trabajan y qué dificultades se encuentran. Es un modo de ver si podemos ayudar o aportar algo bueno a su forma de trabajar puesto que podríamos facilitarles herramientas que automaticen ciertas acciones etc.
+
+Realizar este tipo de actividades es muy bueno tanto personalmente como para la empresa.
+
+##  Día 17: Find and share a quote that inspires you
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">If you think you will find all bugs, you have very simple product or a very limited imagination. <a href="https://twitter.com/hashtag/lessonslearned?src=hash">#lessonslearned</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/757154226023833600">24 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Día 18: Find a broken link. And report it
+
+Utilizando http://www.brokenlinkcheck.com/ sobre la web de renfe, he encontrado este error.
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Day18: Hi!! I&#39;ve found this error 404 in uic web <a href="https://twitter.com/Renfe">@Renfe</a> <a href="https://twitter.com/uic">@uic</a><a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> <a href="https://t.co/O3uukbKjLZ">pic.twitter.com/O3uukbKjLZ</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/754944661949677568">18 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Día 19: Find and use a new tool
+
+Este mes he estado utilizando la herramienta [meldium](www.meldium.com).
+La he instalado como un plugin en el navegador chrome.
+Sirve para hacer login automáticamente en todas las aplicaciones sin necesidad de poner nombre de usuario y contraseña en todas y cada una. Es como si tuviéramos un contenedor de accesos directos. De todas formas, no en todas las aplicaciones puedes hacer ese login automático pero sí que te permite almacenar usuario y contraseña para poder acceder más rápido.
+De esta manera, al llegar al trabajo, abro rápidamente todas las aplicaciones que necesito sin preocuparme de guardarlas en marcadores por ejemplo.
+
+## Día 20: Find a good place to perform some security tests
+
+Pues voy a darle una vuelta a esta [charla](http://sinfoniadetesteo.blogspot.com.es/2016/04/flywire-testnight-abril-2016-con-jose.html?q=jose+selvi) de [Jose Selvi](https://twitter.com/JoseSelvi)
+
+## Día 21: Pair test with someone
+
+Haciendo una kata en el curro con mis compañeros y viendo más de cerca el TDD
+Viniendo de java siempre tiendo a imaginarme las soluciones mucho antes de lo que es necesario. Es decir, intento averiguar qué estructura de datos será la más adecuada o qué problemas se engloban bajo una misma idea.
+Pero estoy aprendiendo a que, entender el problema que tienes entre manos es un proceso de aprendizaje y TDD te lleva por esa línea, es decir, partiendo de tests sencillos  mientras que pensar directamente en la solución más adecuada te puede llevar por mal camino.
+
+La kata en concreto ha sido http://codekata.com/kata/kata16-business-rules
+
+## Día 22: Share your favorite testing tool
+
+Con esta herramienta tengo un amor-odio interesante...
+Echad un ojo a mi post sobre [Gatling](https://emerrefe.github.io/qa-blog/Gatling-tool-pruebas-de-stress)
+
+## Día 23: Help someone test better
+
+Perfecto, en casa tengo ayuda con Ruby y yo soy la que ayudo con el testing. Done.
+
+## Día 31: Bonus, compartir todo el challenge
+
+¡Pues aquí está! Seguro que completaré alguna cosita más en el futuro así que si procede, lo apuntaré (al final será un reto un poco asíncrono jajaj)
+
+¡A cuidarse!
+
