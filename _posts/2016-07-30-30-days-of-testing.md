@@ -75,7 +75,9 @@ La [TestNigth](http://meetu.ps/2YKSzv) en Valencia.
 
 ## DÍA 11: Take a picture of your team
 
-Podeís verlos en este tweet de Jokin ^^
+Podeís verlos en estos tweets de Jokin ^^ tanto a los testers ¡¡como al equipo completo!!
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Welcoming new fellow tester <a href="https://twitter.com/emerrefe">@emerrefe</a> <a href="https://twitter.com/hashtag/30daystestingchallenge?src=hash">#30daystestingchallenge</a> *pic from yesterday, but timezones were not specified <a href="https://t.co/q7cunxogcw">pic.twitter.com/q7cunxogcw</a></p>&mdash; Jokin Aspiazu (@JokinAspiazu) <a href="https://twitter.com/JokinAspiazu/status/749135575588876289">2 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> <a href="https://twitter.com/hashtag/day11?src=hash">#day11</a> Team, can I get a picture of you, at the seaside, at sunset... oh, you are so kind! <a href="https://t.co/FMk9YGYmvq">pic.twitter.com/FMk9YGYmvq</a></p>&mdash; Jokin Aspiazu (@JokinAspiazu) <a href="https://twitter.com/JokinAspiazu/status/752789508723179520">12 de julio de 2016</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
