@@ -64,6 +64,22 @@ Pues bien, al utilizarla vi algún problema, no son 5 bugs, pero me impactó que
 
 Qué lujo saber que hay gente así, os dejaré el hilo del email para que le echéis un ojo.
 
+## DÍA 9: Create a mindmap
+
+Done!! simplemente es confidencial.
+
+
+## DÍA 10: Find an event to attend
+
+La [TestNigth](http://meetu.ps/2YKSzv) en Valencia.
+
+## DÍA 11: Take a picture of your team
+
+Podeís verlos en este tweet de Jokin ^^
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> <a href="https://twitter.com/hashtag/day11?src=hash">#day11</a> Team, can I get a picture of you, at the seaside, at sunset... oh, you are so kind! <a href="https://t.co/FMk9YGYmvq">pic.twitter.com/FMk9YGYmvq</a></p>&mdash; Jokin Aspiazu (@JokinAspiazu) <a href="https://twitter.com/JokinAspiazu/status/752789508723179520">12 de julio de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## DÍA 13: Find a user experience problem
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Day13: As a user, I think this is an experience problem <a href="https://twitter.com/hashtag/pokemonNO?src=hash">#pokemonNO</a>-GO 😂 <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a> <a href="https://t.co/wWgCSt7K1z">pic.twitter.com/wWgCSt7K1z</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/754784714473533440">17 de julio de 2016</a></blockquote></center>
