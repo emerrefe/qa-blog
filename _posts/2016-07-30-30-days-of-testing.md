@@ -114,7 +114,9 @@ De esta manera, al llegar al trabajo, abro rápidamente todas las aplicaciones q
 
 ## DÍA 20: Find a good place to perform some security tests
 
-Pues voy a darle una vuelta a esta [charla](http://sinfoniadetesteo.blogspot.com.es/2016/04/flywire-testnight-abril-2016-con-jose.html?q=jose+selvi) de [Jose Selvi](https://twitter.com/JoseSelvi)
+Pues voy a darle una vuelta a esta charla de [Jose Selvi](https://twitter.com/JoseSelvi)
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/_J9Bp3lcUwk" frameborder="0" allowfullscreen></iframe></center>
 
 ## DÍA 21: Pair test with someone
 
