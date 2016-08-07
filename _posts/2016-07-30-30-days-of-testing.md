@@ -135,7 +135,9 @@ Perfecto, en casa tengo ayuda con Ruby y yo soy la que ayudo con el testing. Don
 
 ## DÍA 24: Connect with a tester who you haven't previously connected with
 
-Es Meike, tester en Estocolmo, podéis encontrarla en su [web](http://agiletester.webnode.com). Hablamos en inglés por hangouts sobre nuestros antiguos trabajos y alguna que otra anécdota. Meike nice to meet you!!
+Es Meike, tester en Estocolmo, podéis encontrarla en su [web](http://agiletester.webnode.com). Hablamos en inglés por hangouts sobre nuestros antiguos trabajos y alguna que otra anécdota. 
+
+Meike nice to meet you!!
 
 ## Día 26: Invite a non-tester to a test event
 
