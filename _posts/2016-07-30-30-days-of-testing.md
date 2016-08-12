@@ -150,6 +150,18 @@ Meike nice to meet you!!
 
 ¡¡Hecho!! me lo llevaré a la TestNight ;)
 
+## Día 27: Say something nice about the thing you just tested
+
+Revisar una historia, ver que incluye algo que puede llegar a ser un problema para los usuarios, comentarlo, ver que todos se vuelcan en ello para solventarlo y mejorar. Simplemente genial.
+
+
+## Día 28: Summarise an issue in 140 characters or less
+
+Qué mejor sitio que en twitter ¿no?
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/LinkedInHelp">@LinkedInHelp</a> Hi!! I have seen this bug when I accept someone in my <a href="https://twitter.com/hashtag/linkedin?src=hash">#linkedin</a> <br>maybe you can take a look ;) <a href="https://t.co/sibayXleyH">pic.twitter.com/sibayXleyH</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/764101910739750912">12 de agosto de 2016</a></blockquote></center>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Día 31: Bonus, compartir todo el challenge
 
 ¡Pues aquí está! Seguro que completaré alguna cosita más en el futuro así que si procede, lo apuntaré (al final será un reto un poco asíncrono jajaj)
