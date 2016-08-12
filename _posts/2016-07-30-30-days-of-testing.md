@@ -25,7 +25,7 @@ Entre otras muchas ideas, te hace ver qué otras ciencias te pueden aportar valo
 
 ## DÍA 2: Take a photo of something you are doing at work
 
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">2nd: Not only books, videos teach you in a very good and cool way <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a><a href="https://twitter.com/hashtag/coolcareers?src=hash">#coolcareers</a> <a href="https://t.co/oQaYS0IOos">pic.twitter.com/oQaYS0IOos</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/750034943796019200">4 de julio de 2016</a></blockquote></center>
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">2nd: Not only books, videos teach you in a very good and cool way <a href="https://twitter.com/hashtag/30daysoftesting?src=hash">#30daysoftesting</a><a href="https://twitter.com/hashtag/coolcareers?src=hash">#coolcareers</a> <a href="https://twitter.com/emerrefe/status/750034943796019200">4 de julio de 2016</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## DÍA 3: Listening to a testing podcast
