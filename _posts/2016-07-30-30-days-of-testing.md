@@ -64,7 +64,7 @@ Pues bien, al utilizarla vi algún problema, no son 5 bugs, pero me impactó que
 
 Qué lujo saber que hay gente así, os dejaré el hilo del email para que le echéis un ojo.
 
-![](//emerrefe.github.io/qa-blog/blob/gh-pages/images/brujadeoro.png)
+![](http://emerrefe.github.io/qa-blog/images/brujadeoro.png)
 
 ## DÍA 9: Create a mindmap
 
