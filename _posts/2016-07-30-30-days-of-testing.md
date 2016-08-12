@@ -68,6 +68,7 @@ Qué lujo saber que hay gente así, os dejaré el hilo del email para que le ech
   <source srcset="images/brujadeoro.png" media="(min-width: 800px)">
   <img srcset="images/brujadeoro.png" alt="">
 </picture>
+![image-title-here](images/brujadeoro.png){:class="img-responsive"}
 
 ## DÍA 9: Create a mindmap
 
