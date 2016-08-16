@@ -109,7 +109,7 @@ Utilizando http://www.brokenlinkcheck.com/ sobre la web de renfe, he encontrado 
 
 ## DÍA 19: Find and use a new tool
 
-Este mes he estado utilizando la herramienta [meldium](www.meldium.com).
+Este mes he estado utilizando la herramienta [meldium](https://www.meldium.com/).
 La he instalado como un plugin en el navegador chrome.
 Sirve para hacer login automáticamente en todas las aplicaciones sin necesidad de poner nombre de usuario y contraseña en todas y cada una. Es como si tuviéramos un contenedor de accesos directos. De todas formas, no en todas las aplicaciones puedes hacer ese login automático pero sí que te permite almacenar usuario y contraseña para poder acceder más rápido.
 De esta manera, al llegar al trabajo, abro rápidamente todas las aplicaciones que necesito sin preocuparme de guardarlas en marcadores por ejemplo.
