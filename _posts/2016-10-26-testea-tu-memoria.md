@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testea tu mente
+title: Testea tu memoria
 tags: testing ministryoftesting motivation whiteboard tips
 eye_catch: ""
 ---
