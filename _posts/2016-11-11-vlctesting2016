@@ -15,8 +15,29 @@ este año estaría viviendo en Valencia :)
 
 Como la otra vez, quiero recoger un resumen de las ponencias y los seminarios por si esta información os parece interesante.
 
-En relación a las ponencias:
+# En relación a las ponencias:
+
+## Software testing… ¡Hay que echarle valor!
+por **Maximiliano Mannise**
+
+Siempre abre camino con tono divertido y esta vez con las distintas acepciones para la palabra valor en testing:
+Valor como valentía y coraje para poder llevar un proyecto adelante.
+Valor como satisfacer una necesidad del usuario.
+Valor que las personas aportan en todo el proceso, nuestras skills, no sólo por los testers sino por todos y el trabajo en equipo.
+Además nos comentó que aunque sabemos que nuestra misión principal es encontrar esos bugs, eso no es entregar valor, 
+debemos aportar mucho más, dar más información para así poder defender la calidad del producto.
+Igualmente debemos dar visibilidad al tiempo que se debe dedicar al testing en los proyectos.
+
+Esta ponencia me hizo recordar [este vídeo](https://www.youtube.com/watch?v=8TX6rzz60xQ) de James Bach sobre la aplicación del pensamiento crítico.
+
+También hizo hincapié en el análisis de la causa raíz y los 5 porqués que facilita averiguar la causa de un determinado problema.
+Si no la conocéis podéis echar un ojo a [este post](http://www.pdcahome.com/7642/analisis-de-causa-raiz-metodologia-para-investigar-y-resolver-incidencias).
+(aunque no debemos olvidar que esto nos puede llevar equivocadamente a encontrar una única causa y normalmente la realidad incluye más
+variables a la ecuación y por tanto más causas).
+
+## Devops Mythbusters Salvador Folgado y Jordi Borja
+por **Devops Mythbusters - Salvador Folgado y Jordi Borja**
+
+# En relación a los seminarios:
 
 
-
-En relación a los seminarios:
