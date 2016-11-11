@@ -48,6 +48,9 @@ preparar la infraestructura según la demanda y dar valor al negocio.
 ## ¿Cómo hemos potenciado nuestro desarrollo ágil con testing BDD?
 por **Jorge López Mateo**
 
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Jorge López nos explica en <a href="https://twitter.com/hashtag/VLCTESTING16?src=hash">#VLCTESTING16</a> el concepto de BDD y un caso de éxito <a href="https://t.co/v3qtmq46xl">pic.twitter.com/v3qtmq46xl</a></p>&mdash; Juan Lopez (@JuanLopezVi) <a href="https://twitter.com/JuanLopezVi/status/796287023640440832">9 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
 Ya que el cerebro humano no entiende las abstracciones de primera mano, cuantos más ejemplos tenemos de algo,
 mejor entendemos los conceptos. Por ello en BDD se hace un boceto de las pruebas en lenguaje natural 
 (precondiciones, evento y postcondiciones), se escriben ejemplos y después se hacen ejecutables.
@@ -59,6 +62,23 @@ Contaron que en su empres han mejorado con BDD la mantenibilidad de los tests un
 de que se suavizan las fases por las que pasa el producto y se fomenta el mundo agile.
 
 Además nombró frameworks como [cucumber](https://cucumber.io) que ayudan a facilitar esta implantación de BDD.
+
+
+## Mejorando testesrs, de 0 a 100 
+por **Tomislav Delalic y Jokin Aspiazu**
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Formación en test ... solo se necesita tiempo y dinero Tomi y Jok en <a href="https://twitter.com/hashtag/VLCTesting16?src=hash">#VLCTesting16</a> <a href="https://t.co/QlBmc5uVxF">pic.twitter.com/QlBmc5uVxF</a></p>&mdash; Maximiliano Mannise (@mmannise) <a href="https://twitter.com/mmannise/status/796318340209852416">9 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+Nos contaron su propio aprendizaje y crecimiento como testers.  Una de sus reflexiones es que resulta
+difícil encontrar testers y cuando los encuentras, se hace difícil también reclutarlos.
+La clave está en dar oportunidad a la gente que empieza desde 0 e invertir en mejorarlos y aportarles. Hace falta tiempo y 
+dinero. ¡Hay que invertir en formación!
+Según la compañía, se puede organizar más o menos a los testers, con planes a corto, medio y largo plazo. Por ejemplo, emplear 5 semanas 
+de formación para asentar las bases del testing, principios agile y técnicas de automatización. Además permitir al candidato estudiar
+algún curso enfocado al testeo.
+Otro punto muy importante es volcarse en eventos que invitan a aprender y hacer comunidad.
+
 
 # En relación a los seminarios:
 
