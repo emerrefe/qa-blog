@@ -79,6 +79,24 @@ de formación para asentar las bases del testing, principios agile y técnicas d
 algún curso enfocado al testeo.
 Otro punto muy importante es volcarse en eventos que invitan a aprender y hacer comunidad.
 
+## Grande, pequeño, ancho y largo. ¡Vamos  a poner a prueba la responsiveness!
+por **Eduardo Luna**
+
+Tuvo que estudiar cómo plantear una estrategia para tener un diseño web responsive. Además qué recursos emplear 
+para defender por qué no sacar a producción un producto que no consideraba de calidad debido a no ser responsive.
+¡El diseño web debe ser adaptativo!
+Hay que considerar temas como el público al que va dirigido el producto, mirar todas las plataformas en que será utilizado, 
+cuales son las versiones más utilizadas, navegadores de más  uso, la conectividad con la que cuentan esos dispositivos,  
+el método de entrada de datos, las resoluciones y orientación de las pantallas, el ámbito geográfico
+de los usuarios...
+Destacó también la importancia de realizar bocetos desde el primer momento que, de un simple vistazo, se pueda observar
+cuál es la intención del producto.
+Finalmente ver cómo será el test plan, que tenga un reporting muy visual y que nos de la visión general muy rápida.
+Es imposible testear todo en todos los dispositivos. Utilizar frameworks como BrowserStack, Galen etc es una gran idea
+pero si se puede utilizar el movil físico mejor.
+Nunca hay que olvidar las 5 condiciones de test: navegación, rendimiento, condiciones del usuario, 
+cobertura de plataforma y testing visual.
+
 
 # En relación a los seminarios:
 
