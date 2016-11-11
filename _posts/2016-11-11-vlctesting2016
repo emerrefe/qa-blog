@@ -35,8 +35,30 @@ Si no la conocéis podéis echar un ojo a [este post](http://www.pdcahome.com/76
 (aunque no debemos olvidar que esto nos puede llevar equivocadamente a encontrar una única causa y normalmente la realidad incluye más
 variables a la ecuación y por tanto más causas).
 
-## Devops Mythbusters Salvador Folgado y Jordi Borja
-por **Devops Mythbusters - Salvador Folgado y Jordi Borja**
+## Devops Mythbusters
+por **Salvador Folgado y Jordi Borja**
+
+Comentaron los mitos que han detectado a la hora de implantar la figura del DevOps en las empresas.
+Anteriormente al ciclo de conferencias nos enviaron un correo con una encuesta sobre esto y aquí los han expuesto y comentado.
+
+En resumen es recordar que quienes trabajan en operaciones lo hace para dar información y 
+preparar la infraestructura según la demanda y dar valor al negocio.
+
+
+## ¿Cómo hemos potenciado nuestro desarrollo ágil con testing BDD?
+por **Jorge López Mateo**
+
+Ya que el cerebro humano no entiende las abstracciones de primera mano, cuantos más ejemplos tenemos de algo,
+mejor entendemos los conceptos. Por ello en BDD se hace un boceto de las pruebas en lenguaje natural 
+(precondiciones, evento y postcondiciones), se escriben ejemplos y después se hacen ejecutables.
+
+Es muy buena excusa para juntar al analista, el tester y el desarrollador para crear esos ejemplos concretos 
+que sirven de referencia para los planes de pruebas y para aportar el valor que el usuario final demanda.
+
+Contaron que en su empres han mejorado con BDD la mantenibilidad de los tests unitarios. Con ello se han dado cuenta 
+de que se suavizan las fases por las que pasa el producto y se fomenta el mundo agile.
+
+Además nombró frameworks como [cucumber](https://cucumber.io) que ayudan a facilitar esta implantación de BDD.
 
 # En relación a los seminarios:
 
