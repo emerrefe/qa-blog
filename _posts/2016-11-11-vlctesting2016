@@ -104,8 +104,42 @@ por **Josep Albors**
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Divertido a la par que escalofriante.
-El internet de las cosas tiene ahora el poder, al no estar securizado. Prueba de ello es el reciente 
-ataque de denegación de servicio, cuando “se cayó el interné”.
+El internet de las cosas tiene ahora el poder y debemos ser conscientes de que no esta securizado. 
+Prueba de ello es el reciente ataque DDoS del que hemos sido testigos y que podemos 
+leer en [esta noticia](http://www.xataka.com/servicios/los-responsables-del-ddos-a-dyn-usaron-camaras-ip-y-dvrs-para-tumbar-medio-internet).
+A partir de ahora, simplemente desconfiad de vuestra cafetera y vuestra nevera. Ahí queda.
+
+
+## Cómo probamos SW en idealista
+por **Raúl Hernández**
+
+Nos comentó que tienen equipos independientes de las distintas disciplinas y dan soporte en todos los proyectos 
+donde haga falta. La calidad es responsabilidad de todos.
+Ponen el foco en el usuario final (sobre todo realizando pruebas exploratorias y de aceptación).
+Además ponen mucho énfasis en la automatización de las pruebas sin olvidar nunca las manuales. Siempre tendremos que probar 
+manualmente para que sea útil el feedback. Su proporción de pruebas es básicamente 50/50 (manuales vs automatizadas).
+También, en cuanto a detalles técnicos, nos informó de que en los tests automáticos utilizan PageObject (si queréis más detalles
+sobre este patrón podéis pasar por [uno de mis antiguos posts](https://emerrefe.github.io/qa-blog/page-object-pattern) ).
+
+## La evolución del QA. Del mono al QA
+por **Jorge Barroso**
+
+Nos propuso un inteligente símil entre la evolución humana y el QA.
+De esta manera nos proporcionó un resumen para poder ver en qué estado de la evolución nos encontramos
+con determinado equipo y proyecto y ver hacia adonde avanzar.
+
+## El software escondido
+por **Francesc Pastor**
+
+Relacionado con el testing en sistemas embebidos, esos grandes desconocidos.
+Este software también necesitamos testearlo. Para llevar a cabo esto, se crea una interfaz y así se consigue
+captar la información del sistema dejando todo preparado para el posterior testeo. Por ejemplo AUTOSAR para automóviles,
+nos proporciona una abstracción del microprocesador o hardware, así tenemos la funcionalidad que quiere el cliente lista
+para probar.
+Tampoco hay que dejar de lado la seguridad funcional (que tiene en cuenta la oportunidad, el impacto legal, la independencia y la aplicación hw y sw).
+Y algo súper importante es que centran su atención en los posibles fallos que impliquen un riesgo para las personas
+(dandoles prioridad frente a los posibles fallos del sistema).
+
 
 # En relación a los seminarios:
 
