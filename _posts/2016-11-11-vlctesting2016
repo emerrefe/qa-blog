@@ -143,4 +143,24 @@ Y algo súper importante es que centran su atención en los posibles fallos que 
 
 # En relación a los seminarios:
 
+## Testing y DevOps
+por **José Carlos López Ayala**
+
+Basado en la importancia de generar un pipeline para tener un despliegue automatizado.
+Conocí la herramienta XLRELEASE, es la que utilizan para los despliegues.
+
+## UX para Apps
+por **Yolanda Tomás**
+
+Me gustó muchísimo puesto que toda la parte de experiencia de usuario y de diseño me encanta.
+Nos hizo ver la diferencia entre usabilidad (algo es fácil de usar) y experiencia de usario (donde hasta entran en juego
+los sentimientos de los mismos).
+También dio un repaso por todas las técnicas que se siguen para asegurar la calidad del producto:
+- Técnicas de investigación de los usuarios: como idear unas proto personas, inventando su perfil, que tendrán unas características específicas y tenerlas
+presentes durante todo el desarrollo de la aplicación. También la generación de story boards como escenarios en los que los usuarios se pueden ver envueltos.
+- Técnicas de diseño: como el cardsorting que permite escribir todas las funcionalidades de la app en papelitos y pedirle a los usuarios
+que las ordenen y categoricen según crean (algo que puede ayudar en la disposición de los elementos del menú de la aplicación).
+- Técnicas de prototipado: como determinar qué contenidos son obligatorios y seguir guías de estilo.
+- Técnicas de evaluación: hacer tests como el de los 5 segundos, tests A/B y tests de guerrilla (en los cuales te ayudas de amigos, familiares etc para que prueben la app).
+
 
