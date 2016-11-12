@@ -147,10 +147,13 @@ Y algo súper importante es que centran su atención en los posibles fallos que 
 por **José Carlos López Ayala**
 
 Basado en la importancia de generar un pipeline para tener un despliegue automatizado.
-Conocí la herramienta XLRELEASE, es la que utilizan para los despliegues.
+Conocí la herramienta XLRELEASE que es la que ellos utilizan para los despliegues.
 
 ## UX para Apps
 por **Yolanda Tomás**
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Preguntas indispensables para alcanzar una buena experiencia de usuario <a href="https://twitter.com/hashtag/VLCTesting16?src=hash">#VLCTesting16</a> con Yolanda <a href="https://t.co/CK41MXO3xU">pic.twitter.com/CK41MXO3xU</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/796675409253371905">10 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Me gustó muchísimo puesto que toda la parte de experiencia de usuario y de diseño me encanta.
 Nos hizo ver la diferencia entre usabilidad (algo es fácil de usar) y experiencia de usario (donde hasta entran en juego
@@ -163,4 +166,15 @@ que las ordenen y categoricen según crean (algo que puede ayudar en la disposic
 - Técnicas de prototipado: como determinar qué contenidos son obligatorios y seguir guías de estilo.
 - Técnicas de evaluación: hacer tests como el de los 5 segundos, tests A/B y tests de guerrilla (en los cuales te ayudas de amigos, familiares etc para que prueben la app).
 
+
+## Probar en dispositivos móviles y no morir en el intento
+por **Víctor Gómez**
+
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Pruebas que hacer en dispositivos móviles, con Víctor <a href="https://twitter.com/hashtag/VLCTesting16?src=hash">#VLCTesting16</a> <a href="https://t.co/uOE6wrbN9b">pic.twitter.com/uOE6wrbN9b</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/796722881593868288">10 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+
+MARTA
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Gracias por la oportunidad <a href="https://twitter.com/hashtag/VLCTesting16?src=hash">#VLCTesting16</a>  y por la colaboración <a href="https://twitter.com/HomoludicusVLC">@HomoludicusVLC</a> <a href="https://t.co/MccxbqPiZa">https://t.co/MccxbqPiZa</a></p>&mdash; Marta Garrido (@Garrido_Ledesma) <a href="https://twitter.com/Garrido_Ledesma/status/796790028420648960">10 de noviembre de 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
