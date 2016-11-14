@@ -143,7 +143,6 @@ Tampoco hay que dejar de lado la seguridad funcional (que tiene en cuenta la opo
 Y algo súper importante es que centran su atención en los posibles fallos que impliquen un riesgo para las personas
 (dandoles prioridad frente a los posibles fallos del sistema).
 
-
 # En relación a los seminarios:
 
 ## Testing y DevOps
@@ -176,21 +175,25 @@ por **Víctor Gómez**
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Pruebas que hacer en dispositivos móviles, con Víctor <a href="https://twitter.com/hashtag/VLCTesting16?src=hash">#VLCTesting16</a> <a href="https://t.co/uOE6wrbN9b">pic.twitter.com/uOE6wrbN9b</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/796722881593868288">10 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-
 ## Mejora tus habilidades como tester... ¡Jugando!
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Gracias por la oportunidad <a href="https://twitter.com/hashtag/VLCTesting16?src=hash">#VLCTesting16</a>  y por la colaboración <a href="https://twitter.com/HomoludicusVLC">@HomoludicusVLC</a> <a href="https://t.co/MccxbqPiZa">https://t.co/MccxbqPiZa</a></p>&mdash; Marta Garrido (@Garrido_Ledesma) <a href="https://twitter.com/Garrido_Ledesma/status/796790028420648960">10 de noviembre de 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-Seguro que la recordáis de mi antiguo post, ahora somos compañeras de trabajo junto con Joki :)
+Seguro que la recordáis de mi antiguo post, ahora somos compañeras de trabajo junto con Jokin :)
 
-Este año se ha currado un seminario con juegos para enseñarnos que las habilidades se pueden entrenar.
+Este año se ha currado un seminario con juegos para enseñarnos que nuestras habilidades se pueden entrenar.
 
-Teniendo identificadas cuáles son esas habilidades que un tester debería tener:
+Teniendo identificadas las habilidades que un tester debería tener, podemos entrenarlas con diferentes juegos:
 
-Atención al detalle
+- Atención al detalle: con juegos como el [Set](http://zacatrus.es/set.html) o el [Dobble](http://zacatrus.es/dobble.html)
+- Creatividad: como [Story cubes](http://zacatrus.es/story-cubes-acciones.html) y [Black stories](http://zacatrus.es/black-stories.html)
+- Comunicación: [Time's up](http://zacatrus.es/time-s-up-edicion-amarillo.html) y [Dixit](http://zacatrus.es/dixit.html)
+- Adaptación al cambio: como [Fluxx](http://zacatrus.es/fluxx.html) y [Sushi Go](http://zacatrus.es/sushi-go.html)
 
 ![](http://emerrefe.github.io/qa-blog/images/juegosvlc.png)
 
-Esto se pudo llevar a cabo con la ayuda de [@homoludicus Valencia](https://twitter.com/homoludicusvlc) que nos prestó todos los juegos 
+Esto se pudo llevar a cabo con la ayuda de [@homoludicus Valencia](https://twitter.com/homoludicusvlc) 
+que nos prestó todos los juegos.
 
+¡Y hasta aquí puedo leer! Espero que toméis alguna idea ;)
