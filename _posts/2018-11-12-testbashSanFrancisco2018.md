@@ -26,7 +26,7 @@ Nos dejó una nota al libro Radical candor de Kim Scott. https://www.radicalcand
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Elisabeth Hendrickson opens up <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> San Francisco by killing the stage! <a href="https://twitter.com/hashtag/fangirling?src=hash&ref_src=twsrc%5Etfw">#fangirling</a> 🙌🏾 <a href="https://t.co/05eVQwENEm">pic.twitter.com/05eVQwENEm</a></p>&mdash; Angie Jones (@techgirl1908) <a href="https://twitter.com/techgirl1908/status/1060584708277334017?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><center>
 
-
+--
 
 ## 2. Going Undercover in the Mob - Jasmin Smith
 Su twitter @jasmintestcode, nos habló sobre la eficiencia de los mob con grupos diversos donde se fomenta el aprendizaje y la innovación y ¡oye! los meetings decrecen... (algo que algunos no querrán 🤣)
@@ -34,12 +34,12 @@ Su twitter @jasmintestcode, nos habló sobre la eficiencia de los mob con grupos
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Mob with Jasmin Smith, follow her in <a href="https://twitter.com/jasmintestscode?ref_src=twsrc%5Etfw">@jasmintestscode</a> <a href="https://twitter.com/hashtag/testbash?src=hash&ref_src=twsrc%5Etfw">#testbash</a> <a href="https://t.co/kqdwkIRiOE">pic.twitter.com/kqdwkIRiOE</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060597981026500608?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><center>
 
-
+--
 
 ## 3. How to defuse a bomb... wait, I mean a bug - Michele Campbell 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> Michele help us to avoid bombs 💥 <a href="https://t.co/t2hx75C7M6">pic.twitter.com/t2hx75C7M6</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060954925801201665?ref_src=twsrc%5Etfw">9 de noviembre de 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><center>
 
-
+--
 
 ## 4. Tester at the table and the tester in my head, Adrian Dunston
 Su twitter @bitcapulet
