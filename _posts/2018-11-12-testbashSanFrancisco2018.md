@@ -6,7 +6,12 @@ tags: talks
 eye_catch: ""
 ---
 
-Bueno bueno, os vengo a contar la última aventurilla de conferencias que hemos tenido. Esta vez hemos ido a Testbash, ni más ni menos que a San Francisco, California. 
+![](http://emerrefe.github.io/qa-blog/images/TestBash_San_Francisco_2018_Best_Test_West_DOJO_EVENT_BANNER.png)
+
+
+Bueno bueno, os vengo a contar la última aventurilla de conferencias que hemos tenido. Esta vez hemos ido a **Testbash**, ni más ni menos que a San Francisco, California. 
+
+
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr"><a href="https://twitter.com/hashtag/flywire?src=hash&ref_src=twsrc%5Etfw">#flywire</a> <a href="https://twitter.com/hashtag/flymates?src=hash&ref_src=twsrc%5Etfw">#flymates</a> <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> San Francisco... <a href="https://t.co/HI9AG71pHm">pic.twitter.com/HI9AG71pHm</a></p>&mdash; Jokin Aspiazu Jensen (@JokinAspiazu) <a href="https://twitter.com/JokinAspiazu/status/1060608975312314368?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
