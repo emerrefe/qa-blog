@@ -46,12 +46,16 @@ Su twitter [@jasmintestcode](https://twitter.com/jasmintestcode), nos habló sob
 ## Tester at the table and the tester in my head, Adrian Dunston
 Su twitter [@bitcapulet](https://twitter.com/bitcapulet)
 
+Quality is optimism  plus skepticism, repeat yourself, make a deal, argue correctly and promote yourself."
+
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Testers say...  follow <a href="https://twitter.com/bitcapulet?ref_src=twsrc%5Etfw">@bitcapulet</a> <a href="https://twitter.com/hashtag/testbash?src=hash&ref_src=twsrc%5Etfw">#testbash</a> 👌🏼 <a href="https://t.co/9Im83N42XF">pic.twitter.com/9Im83N42XF</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060615188993368065?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
   
 
 ## Climbing to the top of the mobile testing pyramid - Rick Clymer 
 Su twitter [@clymerrm](https://twitter.com/clymerrm)
+
+"You never get a second chance to make a first impression" 
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">About automation in testing.
 Great quote from <a href="https://twitter.com/jamesmarcusbach?ref_src=twsrc%5Etfw">@jamesmarcusbach</a><a href="https://twitter.com/clymerrm?ref_src=twsrc%5Etfw">@clymerrm</a> at <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> <a href="https://t.co/OopJigMQMk">pic.twitter.com/OopJigMQMk</a></p>&mdash; Jokin Aspiazu Jensen (@JokinAspiazu) <a href="https://twitter.com/JokinAspiazu/status/1060628691292540928?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
@@ -61,6 +65,9 @@ Great quote from <a href="https://twitter.com/jamesmarcusbach?ref_src=twsrc%5Etf
 
 ## Extra! Extra! Automation Declared Software! - Paul Grizzaffi
 Su twitter [@pgrizzaffi](https://twitter.com/pgrizzaffi)
+
+"Be sure the tests are still valuable because otherwise you are maintaining non valuable ones" (es esfuerzo para nada)
+
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Some of <a href="https://twitter.com/pgrizzaffi?ref_src=twsrc%5Etfw">@pgrizzaffi</a>’s recommendations at <a href="https://twitter.com/hashtag/testbash?src=hash&ref_src=twsrc%5Etfw">#testbash</a> - so you don’t end up as a bullet point in a future presentation. 🤪 <a href="https://t.co/6TldM3Qge4">pic.twitter.com/6TldM3Qge4</a></p>&mdash; Shawna Alpdemir (@Shawna_Alpdemir) <a href="https://twitter.com/Shawna_Alpdemir/status/1060654864747786241?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
