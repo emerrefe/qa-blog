@@ -26,7 +26,7 @@ Antes de nada voy a dejar por aquí algunos tweets, referencias a los ponentes y
 ## Influence Authority - Elisahbeth Hendrickson
 Su twitter [@testobsessed](https://twitter.com/testobsessed), la f* ama que escribió **Explore it!** (vais viendo el nivel no?)
 Nos comentó cómo el feedback positivo es mucho más potente para incentivar el cambio que ser sólo críticos. Deberíamos ser "kind" no "nice", simplemente honestos, directos y constructivos.
-Nos dejó una nota al libro Radical candor de Kim Scott. https://www.radicalcandor.com/
+Nos dejó una nota al libro [Radical candor de Kim Scott](https://www.radicalcandor.com/)
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Elisabeth Hendrickson opens up <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> San Francisco by killing the stage! <a href="https://twitter.com/hashtag/fangirling?src=hash&ref_src=twsrc%5Etfw">#fangirling</a> 🙌🏾 <a href="https://t.co/05eVQwENEm">pic.twitter.com/05eVQwENEm</a></p>&mdash; Angie Jones (@techgirl1908) <a href="https://twitter.com/techgirl1908/status/1060584708277334017?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
