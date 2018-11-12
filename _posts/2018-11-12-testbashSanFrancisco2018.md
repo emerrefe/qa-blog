@@ -45,10 +45,7 @@ Su twitter @bitcapulet
 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Testers say...  follow <a href="https://twitter.com/bitcapulet?ref_src=twsrc%5Etfw">@bitcapulet</a> <a href="https://twitter.com/hashtag/testbash?src=hash&ref_src=twsrc%5Etfw">#testbash</a> 👌🏼 <a href="https://t.co/9Im83N42XF">pic.twitter.com/9Im83N42XF</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060615188993368065?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><center>
-
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Strengthen your inner tester by repeating key catchphrases <a href="https://twitter.com/bitcapulet?ref_src=twsrc%5Etfw">@bitcapulet</a> <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> <a href="https://t.co/IGM2IvRQEQ">pic.twitter.com/IGM2IvRQEQ</a></p>&mdash; Amber Race @ ATD (@ambertests) <a href="https://twitter.com/ambertests/status/1060615099562450944?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><center>
-
+  
 
 
 ## Climbing to the top of the mobile testing pyramid - Rick Clymer 
