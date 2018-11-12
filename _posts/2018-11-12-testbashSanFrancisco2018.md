@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: True
-title: Testbash San Francisco 2018
+title: TestBash San Francisco 2018
 tags: talks 
 eye_catch: ""
 ---
@@ -9,7 +9,7 @@ eye_catch: ""
 ![](http://emerrefe.github.io/qa-blog/images/TestBash_San_Francisco_2018_Best_Test_West_DOJO_EVENT_BANNER.png)
 
 
-Bueno bueno, os vengo a contar la última aventurilla de conferencias que hemos tenido. Esta vez hemos ido a **Testbash**, ni más ni menos que a San Francisco, California. 
+Bueno bueno, os vengo a contar la última aventurilla de conferencias que hemos tenido. Esta vez hemos ido a **TestBash**, ni más ni menos que a San Francisco, California. 
 
 
 
@@ -161,7 +161,7 @@ Recordar que todas estas conferencias se graban y se pueden volver a ver desde *
 
 En fin... yo estos días he tenido la oportunidad de saludar en persona a [Richard Bardshow](https://twitter.com/FriendlyTester), gracias a que él hizo un concurso para ganar un ticket, pude ir el año pasado a la **European Testing Conference** de Helsinki.
 
-Bien, en cuanto al formato, la **Testbash** para mí ha sido menos propensa a conocer gente que la **European Testing Conference** pero igualmente se han hecho juegos como el **Family Feud** con el que pasamos un buen rato de risas, **99 second talks** y **lean coffes** para empezar las mañanas. En la European se fomentó mucho más porque se hicieron rondas de **speed-dating**, las **tablas redondas** por grupos para hablar de los temas propuestos (donde todo el mundo se dedicaba ese rato a lo mismo, no sólo "los más atrevidos" para que me entendáis) y se hicieron **workshops** en grupo también.
+Bien, en cuanto al formato, la **TestBash** para mí ha sido menos propensa a conocer gente que la **European Testing Conference** pero igualmente se han hecho juegos como el **Family Feud** con el que pasamos un buen rato de risas, **99 second talks** y **lean coffes** para empezar las mañanas. En la European se fomentó mucho más porque se hicieron rondas de **speed-dating**, las **tablas redondas** por grupos para hablar de los temas propuestos (donde todo el mundo se dedicaba ese rato a lo mismo, no sólo "los más atrevidos" para que me entendáis) y se hicieron **workshops** en grupo también.
 
 Y las charlas sí que han sido más potentes bajo mi punto de vista.
 
