@@ -38,6 +38,8 @@ Su twitter [@jasmintestcode](https://twitter.com/jasmintestcode), nos habló sob
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Mob with Jasmin Smith, follow her in <a href="https://twitter.com/jasmintestscode?ref_src=twsrc%5Etfw">@jasmintestscode</a> <a href="https://twitter.com/hashtag/testbash?src=hash&ref_src=twsrc%5Etfw">#testbash</a> <a href="https://t.co/kqdwkIRiOE">pic.twitter.com/kqdwkIRiOE</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060597981026500608?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Jasmin Smith killing her very first conference talk, as she schools us on a tester&#39;s role in mob programming! <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> <a href="https://t.co/u7SMBvkrbn">pic.twitter.com/u7SMBvkrbn</a></p>&mdash; Angie Jones (@techgirl1908) <a href="https://twitter.com/techgirl1908/status/1060598356366356480?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
 
 ## How to defuse a bomb... wait, I mean a bug - Michele Campbell 
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> Michele help us to avoid bombs 💥 <a href="https://t.co/t2hx75C7M6">pic.twitter.com/t2hx75C7M6</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060954925801201665?ref_src=twsrc%5Etfw">9 de noviembre de 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
@@ -100,15 +102,7 @@ Indagad aquí, esto es cremita fina 👌🏼
 Su twitter [@Punkmik](https://twitter.com/Punkmik)
 <center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Discovering Alexa testing with Kim. Follow her in <a href="https://twitter.com/Punkmik?ref_src=twsrc%5Etfw">@Punkmik</a> <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> <a href="https://t.co/IPsFXDXZ5r">pic.twitter.com/IPsFXDXZ5r</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060949157928521728?ref_src=twsrc%5Etfw">9 de noviembre de 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
   
-  
-  
-## Going undercover in the Mob - Jasmin Smith
-Su twitter [@jasmintestscode](https://twitter.com/jasmintestscode)
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Jasmin Smith killing her very first conference talk, as she schools us on a tester&#39;s role in mob programming! <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> <a href="https://t.co/u7SMBvkrbn">pic.twitter.com/u7SMBvkrbn</a></p>&mdash; Angie Jones (@techgirl1908) <a href="https://twitter.com/techgirl1908/status/1060598356366356480?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
-<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Mob with Jasmin Smith, follow her in <a href="https://twitter.com/jasmintestscode?ref_src=twsrc%5Etfw">@jasmintestscode</a> <a href="https://twitter.com/hashtag/testbash?src=hash&ref_src=twsrc%5Etfw">#testbash</a> <a href="https://t.co/kqdwkIRiOE">pic.twitter.com/kqdwkIRiOE</a></p>&mdash; emerrefe (@emerrefe) <a href="https://twitter.com/emerrefe/status/1060597981026500608?ref_src=twsrc%5Etfw">8 de noviembre de 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
-  
-  
   
 ## AI means centralized testing is inevitable - Jason Arbon
 Su twitter [@jarbon](https://twitter.com/jarbon)
