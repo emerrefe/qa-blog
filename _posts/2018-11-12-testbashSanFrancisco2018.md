@@ -172,8 +172,8 @@ Bien, en cuanto al formato, la **TestBash** para mí ha sido menos propensa a co
 
 Y las charlas sí que han sido más potentes bajo mi punto de vista.
 
-<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Post <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> fun as commenced! Thank you all for attending! <a href="https://t.co/KF3hlX6D41">pic.twitter.com/KF3hlX6D41</a></p>&mdash; Ministry of Testing (@ministryoftest) <a href="https://twitter.com/ministryoftest/status/1061083096840192000?ref_src=twsrc%5Etfw">10 de noviembre de 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Post <a href="https://twitter.com/hashtag/TestBash?src=hash&ref_src=twsrc%5Etfw">#TestBash</a> fun as commenced! Thank you all for attending! <a href="https://t.co/KF3hlX6D41">pic.twitter.com/KF3hlX6D41</a></p>&mdash; Ministry of Testing (@ministryoftest) <a href="https://twitter.com/ministryoftest/status/1061083096840192000?ref_src=twsrc%5Etfw">10 de noviembre de 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 
 Y como os contaba al principio, lo que tengo claro es que en un ciclo de conferencias a este nivel: ves el futuro, te das cuenta  de si lo que estás aplicando en tu empresa está bien, si va por el buen camino o qué nuevos horizontes se están abriendo en nuestro campo de trabajo.
